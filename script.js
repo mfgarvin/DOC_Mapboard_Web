@@ -1,3 +1,4 @@
+/*
 test={"Mass Times": {
          "Saturday": "830, 1600",
          "Sunday": "730, 930, 1130, 1800",
@@ -32,12 +33,19 @@ test={"Mass Times": {
          "Thursday": null,
          "Friday": null
       }}
+      */
 let DAYS_OF_WEEK = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 let WEEKEND = ["Saturday", "Sunday"]
 
 // TODO: Handle edge case that occurs at the end of each day (pre-process events into lookup table?)
 
 function stateOfParish(parish, dayOfWeekNum, hour, minute) {
+  /*
+   * Given a parish (from live.json), day of week and timestamp, returns the 
+   * activity at that parish at that moment in time
+   * 
+   * Returns "nothing", "mass", "confession", or "adoration"
+   */
   let result = "nothing"
   if (isMassTime(parish, dayofWeekNum, hour, minute)) {
     result = "mass"
@@ -49,10 +57,18 @@ function stateOfParish(parish, dayOfWeekNum, hour, minute) {
   return result
 }
 
+minuteOfDay(hour, minute) {
+  return hour * 60 + minute
+}
+
+minutesSinceEventStart(eventHour, eventMinute, currentHour, currentMinute) {
+  return minuteOfDay(currentHour, currentMinute) - minuteOfDay(eventHour, eventMinute)
+}
+
 function isMassTime(parish, dayOfWeekNum, hour, minute) {
   let dayOfWeek = DAYS_OF_WEEK[dayOfWeekNum];
 
-  let todaysMassTimes = parish["Mass Times"]
+  let todaysMassTimes = parish["Mass Times"][dayOfWeek]
   let isWeekend = WEEKEND.includes(dayOfWeek)
   let duration = 60 ? isWeekend : 30
   if (todaysMassTimes === null) {
@@ -62,6 +78,23 @@ function isMassTime(parish, dayOfWeekNum, hour, minute) {
   }
 
   for (let massTime of todaysMassTimes) {
-    massTime.slice()
+    massHour = parseInt(massTime.slice(0,-2))
+    massMinute = parseInt(massTime.slice(-2))
+    minutesSinceStart = minutesSinceEventStart(massHour, massMinute, hour, minute)
+    if (minutesSinceEventStart < duration && minutesSinceEventStart > 0) {
+      return true
+    }
   }
+  return false
+}
+
+function isConfessionTime(parish, dayOfWeekNum, hour, minute) {
+  let dayOfWeek = DAYS_OF_WEEK[dayOfWeekNum];
+  let todaysConfessionTimes = parish["Confessions"][dayOfWeek]
+  let confessionTimeSegments = todaysConfessionTimes.split(",").map(seg => seg.strip());
+  return false
+}
+
+function isAdorationTime(parish, dayOfWeeknum, hour, minute) {
+  return false
 }

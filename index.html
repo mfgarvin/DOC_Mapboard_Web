@@ -9,88 +9,97 @@
 </head>
 
 <body>
-  Hello world  
+  Hello world
   <script src='https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.js'></script>
   <link href='https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.css' rel='stylesheet' />
   <script src="script.js"></script>
-  
+
   <div id='map' style='width: 400px; height: 400px;'></div>
   <script>
-  mapboxgl.accessToken = 'pk.eyJ1IjoibWdhcnZpbiIsImEiOiJjbGF3bzB4OW0waG0wM3Vtdmp5YjFlZDB5In0.HLj4SIkewklqBtSfY0Gm8w';
+    mapboxgl.accessToken = 'pk.eyJ1IjoibWdhcnZpbiIsImEiOiJjbGF3bzB4OW0waG0wM3Vtdmp5YjFlZDB5In0.HLj4SIkewklqBtSfY0Gm8w';
 
-  // Load JSON
-  fetch("live.json")
-    .then(result => result.json())
-    .then(resultJson => 
-      Object.keys(resultJson).map(parishName => {
-        let parish = resultJson[parishName]
-        return {
-          "type": "Feature",
-          "geometry": {
-            "type": "Point",
-            "coordinates": [parish.long, parish.lat]
-          },
-          "properties": {
-            "name": parishName
+    // Load JSON
+    fetch("live.json")
+      .then(result => result.json())
+      .then(resultJson =>
+        Object.keys(resultJson).map(parishName => {
+          let parish = resultJson[parishName]
+          return {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [parish.long, parish.lat]
+            },
+            "properties": {
+              "name": parishName
+            }
           }
+        })
+      )
+      .then(geoJson => geoJson.filter(parish => parish.geometry.coordinates[0] != undefined))
+      .then(geoJson => {
+        return {
+          'type': 'FeatureCollection',
+          'features': geoJson
         }
       })
-    )
-    .then(geoJson => geoJson.filter(parish => parish.geometry.coordinates[0] != undefined))
-    .then(geoJson => {
-      return {
-        'type': 'FeatureCollection',
-        'features': geoJson
-      }
-    })
-    .then(geoJson => {
-      console.log(geoJson)
-      // https://docs.mapbox.com/mapbox-gl-js/example/geojson-markers/
-      const map = new mapboxgl.Map({
-        container: 'map', // container ID
-        style: 'mapbox://styles/mapbox/dark-v11', // style URL
-        center: [-81.649318, 41.316308], // starting position [lng, lat]
-        zoom: 8, // starting zoom
-      });
-      map.on('load', () => {
-        map.addSource('parishes', {
-         'type': 'geojson',
-         'data': geoJson
+      .then(geoJson => {
+        console.log(geoJson)
+        // https://docs.mapbox.com/mapbox-gl-js/example/geojson-markers/
+        const map = new mapboxgl.Map({
+          container: 'map', // container ID
+          style: 'mapbox://styles/mapbox/dark-v11', // style URL
+          center: [-81.649318, 41.316308], // starting position [lng, lat]
+          zoom: 8, // starting zoom
         });
-        map.loadImage('')
-        map.addLayer({
-          'id': 'parishlights',
-          'type': 'symbol',
-          'source': 'parishes',
-          'layout': {
-            // This icon is a part of the Mapbox Streets style.
-            // To view all images available in a Mapbox style, open
-            // the style in Mapbox Studio and click the "Images" tab.
-            // To add a new image to the style at runtime see
-            // https://docs.mapbox.com/mapbox-gl-js/example/add-image/
-            'icon-image': 'rocket'
-            //'icon-image': 'blueMarker',
-            //'icon-size': 1
-          }
-        });
-        console.log(map.listImages())
+        map.on('load', () => {
+        map.loadImage(
+            //          'icons/svg/blueMarker.svg', 
+            'https://raw.githubusercontent.com/mfgarvin/DOC_Mapboard_Web/main/icons/svgs/blueMarker.svg',
+            (error, image) => {
+              //if (error) throw error;
+              console.log("Hello!")
+              console.log(error)
+
+              map.addImage('mass', image);
+              map.addSource('parishes', {
+                'type': 'geojson',
+                'data': geoJson
+              });
+              map.addLayer({
+                'id': 'parishlights',
+                'type': 'symbol',
+                'source': 'parishes',
+                'layout': {
+                  // This icon is a part of the Mapbox Streets style.
+                  // To view all images available in a Mapbox style, open
+                  // the style in Mapbox Studio and click the "Images" tab.
+                  // To add a new image to the style at runtime see 
+                  // https://docs.mapbox.com/mapbox-gl-js/example/add-image/
+                  //'icon-image': 'rocket'
+                  'icon-image': 'mass',
+                  'icon-size': 1
+                }
+              });
+              console.log(map.listImages())
+            })
       })
-  })
+      })
   // TO MAKE THE MAP APPEAR YOU MUST
   // ADD YOUR ACCESS TOKEN FROM
   // https://account.mapbox.com
-  
+
   </script>
 
   test 2
-  
 
- <!--
+
+  <!--
   This script places a badge on your repl's full-browser view back to your repl's cover
   page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
   teal, blue, blurple, magenta, pink!
   -->
-  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script>
 
 </body>
 
