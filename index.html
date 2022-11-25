@@ -12,6 +12,7 @@
   Hello world  
   <script src='https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.js'></script>
   <link href='https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.css' rel='stylesheet' />
+  <script src="script.js"></script>
   
   <div id='map' style='width: 400px; height: 400px;'></div>
   <script>
@@ -56,6 +57,7 @@
          'type': 'geojson',
          'data': geoJson
         });
+        map.loadImage('')
         map.addLayer({
           'id': 'parishlights',
           'type': 'symbol',
@@ -67,6 +69,8 @@
             // To add a new image to the style at runtime see
             // https://docs.mapbox.com/mapbox-gl-js/example/add-image/
             'icon-image': 'rocket'
+            //'icon-image': 'blueMarker',
+            //'icon-size': 1
           }
         });
         console.log(map.listImages())
@@ -80,7 +84,6 @@
 
   test 2
   
-  <script src="script.js"></script>
 
  <!--
   This script places a badge on your repl's full-browser view back to your repl's cover
