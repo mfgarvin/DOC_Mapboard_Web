@@ -98,3 +98,8 @@ function isConfessionTime(parish, dayOfWeekNum, hour, minute) {
 function isAdorationTime(parish, dayOfWeeknum, hour, minute) {
   return false
 }
+
+function activeParishes (state)  {
+  //once the proper chronos code is in place above, sort through and return all active parishes based by state. Use this to either filter geoJson, or add some sort of a status indicator in the json return (line 27, or thereabouts) which one can filter geoJson by.
+  return false
+}

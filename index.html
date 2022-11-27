@@ -31,8 +31,10 @@
               "coordinates": [parish.long, parish.lat]
             },
             "properties": {
-              "name": parishName
-            }
+              "name": parishName,
+              "icon": "adoration"    //In the future, have this refer to something like parish.status or something like that
+              
+            },
           }
         })
       )
@@ -66,11 +68,10 @@
             'type': 'geojson',
             'data': geoJson
           });
-          map.addLayer({ //Remove this layer...
+          map.addLayer({
             'id': 'parishlights',
             'type': 'symbol',
             'source': 'parishes',
-            // Parishes, the source pulled from the geoJson, should script.js determine what parishes fall into this source? And then repeat have layers, one for each state, which reference 'parishes' to see what should be indicated in that particular style?
             'layout': {
               // This icon is a part of the Mapbox Streets style.
               // To view all images available in a Mapbox style, open
@@ -78,38 +79,50 @@
               // To add a new image to the style at runtime see 
               // https://docs.mapbox.com/mapbox-gl-js/example/add-image/
               //'icon-image': 'rocket'
-              'icon-image': 'mass',
-              'icon-size': 0.1
-            }
-          });
-          map.addLayer({
-            'id': 'activeMasses',
-            'type': 'symbol',
-            'source': 'parishes',
-            'layout': {
-              'icon-image': 'mass',
+              'icon-image': '{icon}',
               'icon-size': 1
             }
           });
-          map.addLayer({
-            'id': 'activeConfession',
-            'type': 'symbol',
-            'source': 'parishes',
-            'layout': {
-              'icon-image': 'confession',
-              'icon-size': 1
-            }
-          });
-          map.addLayer({
-            'id': 'activeAdoration',
-            'type': 'symbol',
-            'source': 'parishes',
-            'layout': {
-              'icon-image': 'adoration',
-              'icon-size': 1
-            }
-          });
+          //          map.addLayer({
+          //            'id': 'activeMasses',
+          //            'type': 'symbol',
+          //            'source': 'parishes',
+          //            'layout': {
+          //              'icon-image': 'mass',
+          //              'icon-size': 1
+          //            }
+          //          });
+          //          map.addLayer({
+          //            'id': 'activeConfession',
+          //            'type': 'symbol',
+          //            'source': 'parishes',
+          //            'layout': {
+          //              'icon-image': 'confession',
+          //              'icon-size': 1
+          //            }
+          //          });
+          //          map.addLayer({
+          //            'id': 'activeAdoration',
+          //            'type': 'symbol',
+          //            'source': 'parishes',
+          //            'layout': {
+          //              'icon-image': 'adoration',
+          //              'icon-size': 1
+          //            }
+          //          });
           console.log(map.listImages())
+          map.on('click', 'parishlights', (e) => {
+            console.log("There was a click!", e)
+            const clickCoordinates = e.lngLat
+            const name = e.features[0].properties.name;
+            const state = e.features[0].properties.icon;
+            const info = Object.assign({}, name, state, clickCoordinates)
+            //Math to showmake sure things get zoomed out? https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
+            new mapboxgl.Popup()
+              .setLngLat(clickCoordinates)
+              .setHTML(name)
+              .addTo(map);
+          });
         })
       })
   // TO MAKE THE MAP APPEAR YOU MUST
