@@ -15,8 +15,9 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "VatII"
-          git commit activity-data.json -m "Updated Info"
-          git commit last-edited-at.time -m "Timestamp"
+          pwd
+#          git commit activity-data.json -m "Updated Info"
+#          git commit last-edited-at.time -m "Timestamp"
       - name: Pushing
         run: |
           git push
