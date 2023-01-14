@@ -8,6 +8,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Pulling and Converting
         run: |
+          cd data/
           python csv-to-json.py
           touch last-edited-at.time
       - name: Committing
