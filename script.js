@@ -1,105 +1,63 @@
-/*
-test={"Mass Times": {
-         "Saturday": "830, 1600",
-         "Sunday": "730, 930, 1130, 1800",
-         "Monday": "630, 830",
-         "Tuesday": "630, 830",
-         "Wednesday": "630, 830",
-         "Thursday": "630, 830",
-         "Friday": "630, 830"
-      },
-      "Holy Day": {
-         "Vigil": 1600,
-         "Day Of": "630, 900, 1200, 1900"
-      },
-      "Confessions": {
-         "Placeholder": "Sat 1500, 45",
-         "Saturday": "1500, 45",
-         "Sunday": null,
-         "Monday": null,
-         "Tuesday": null,
-         "Wednesday": null,
-         "Thursday": null,
-         "Friday": null
-      },
-      "Adoration": {
-         "Placeholder": "-",
-         "Is24hour": null,
-         "Saturday": null,
-         "Sunday": null,
-         "Monday": null,
-         "Tuesday": null,
-         "Wednesday": null,
-         "Thursday": null,
-         "Friday": null
-      }}
-      */
 let DAYS_OF_WEEK = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 let WEEKEND = ["Saturday", "Sunday"]
+let ACTIVITY_ORDER = ['mass', 'confession', 'adoration', 'rocket']
 
 // TODO: Handle edge case that occurs at the end of each day (pre-process events into lookup table?)
 
-function stateOfParish(parish, dayOfWeekNum, hour, minute) {
-  /*
-   * Given a parish (from live.json), day of week and timestamp, returns the 
-   * activity at that parish at that moment in time
-   * 
-   * Returns "nothing", "mass", "confession", or "adoration"
-   */
-  let result = "nothing"
-  if (isMassTime(parish, dayofWeekNum, hour, minute)) {
-    result = "mass"
-  } elif (isConfessionTime(parish, dayOfWeekNum, hour, minute)) {
-    result = "confession"
-  } elif (isAdorationTime(parish, dayOfWeekNum, hour, minute)) {
-    result = "adoration"
-  }
-  return result
-}
-
-minuteOfDay(hour, minute) {
+function minuteOfDay(hour, minute) {
   return hour * 60 + minute
 }
 
-minutesSinceEventStart(eventHour, eventMinute, currentHour, currentMinute) {
-  return minuteOfDay(currentHour, currentMinute) - minuteOfDay(eventHour, eventMinute)
+//function minutesSinceEventStart(eventHour, eventMinute, currentHour, currentMinute) {
+  //return minuteOfDay(currentHour, currentMinute) - minuteOfDay(eventHour, eventMinute)
+//}
+
+function activityIsActive(activity, day, hour, minute) {
+  let targetDay = day
+  let targetMinute = minuteOfDay(hour, minute)
+  let activityStartMinute = minuteOfDay(activity.hourOfDay, activity.minute)
+  let activityEndMinute = activityStartMinute + activity.duration
+  if (activity.dayOfWeek == targetDay && activityStartMinute <= targetMinute && activityEndMinute >= targetMinute) {
+    return true;
+  }
+  return false;
 }
 
-function isMassTime(parish, dayOfWeekNum, hour, minute) {
-  let dayOfWeek = DAYS_OF_WEEK[dayOfWeekNum];
-
-  let todaysMassTimes = parish["Mass Times"][dayOfWeek]
-  let isWeekend = WEEKEND.includes(dayOfWeek)
-  let duration = 60 ? isWeekend : 30
-  if (todaysMassTimes === null) {
-    todaysMassTimes = []
-  } else {
-    todaysMassTimes = todaysMassTimes.split(",").map(massTime => massTime.strip())
+function defaultActivity(activity) {
+  //Make an activity of "doing nothing", really for grey dots
+  return {
+    parish: activity.parishName,
+    lat: activity.lat,
+    lon: activity.lon,
+    activityName: activity.has24HourAdoration ? "adoration" : "rocket"
   }
+}
 
-  for (let massTime of todaysMassTimes) {
-    massHour = parseInt(massTime.slice(0,-2))
-    massMinute = parseInt(massTime.slice(-2))
-    minutesSinceStart = minutesSinceEventStart(massHour, massMinute, hour, minute)
-    if (minutesSinceEventStart < duration && minutesSinceEventStart > 0) {
-      return true
+function compareActivityTypes(a,b) {
+  return ACTIVITY_ORDER.indexOf(a) - ACTIVITY_ORDER.indexOf(b)
+}
+
+function pickParishActivityToShow(activityA, activityB) {
+  if (compareActivityTypes(activityA.activityName, activityB.activityName) <= 0) {
+    return activityA;
+  }
+  return activityB;
+}
+
+function getParishActivitiesAtTime(activityData, day, hour, minute) {
+  let results = new Map()
+//  console.log(results)
+  for (activity of activityData) {
+    let parishName = activity.parishName;
+    if (!results.has(parishName)) {
+      results.set(parishName, defaultActivity(activity))
+//      console.log(parishName, "Nothing...")
+    }
+    if (activityIsActive(activity, day, hour, minute)) {
+      results.set(parishName, pickParishActivityToShow(activity, results.get(parishName)))
+      console.log(parishName, activity)
     }
   }
-  return false
-}
-
-function isConfessionTime(parish, dayOfWeekNum, hour, minute) {
-  let dayOfWeek = DAYS_OF_WEEK[dayOfWeekNum];
-  let todaysConfessionTimes = parish["Confessions"][dayOfWeek]
-  let confessionTimeSegments = todaysConfessionTimes.split(",").map(seg => seg.strip());
-  return false
-}
-
-function isAdorationTime(parish, dayOfWeeknum, hour, minute) {
-  return false
-}
-
-function activeParishes (state)  {
-  //once the proper chronos code is in place above, sort through and return all active parishes based by state. Use this to either filter geoJson, or add some sort of a status indicator in the json return (line 27, or thereabouts) which one can filter geoJson by.
-  return false
+  
+  return [...results.values()]
 }

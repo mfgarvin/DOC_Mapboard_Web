@@ -9,7 +9,19 @@
 </head>
 
 <body>
-  Hello world
+  Parish activities as of 
+  <select id="target-day">
+    <option value="0">Sunday</option>
+    <option value="1">Monday</option>
+    <option value="2">Tuesday</option>
+    <option value="3">Wednesday</option>
+    <option value="4">Thursday</option>
+    <option value="5">Friday</option>
+    <option value="6">Saturday</option>
+  </select>
+  <input type="time" id="target-time">
+  
+  
   <script src='https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.js'></script>
   <link href='https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.css' rel='stylesheet' />
   <script src="script.js"></script>
@@ -17,123 +29,137 @@
   <div id='map' style='width: 400px; height: 400px;'></div>
   <script>
     mapboxgl.accessToken = 'pk.eyJ1IjoibWdhcnZpbiIsImEiOiJjbGF3bzB4OW0waG0wM3Vtdmp5YjFlZDB5In0.HLj4SIkewklqBtSfY0Gm8w';
+    parishActivityJson = [];
 
-    // Load JSON
-    fetch("live.json")
-      .then(result => result.json())
-      .then(resultJson =>
-        Object.keys(resultJson).map(parishName => {
-          let parish = resultJson[parishName]
+    function updateMap() {
+      let targetDay = parseInt(document.getElementById("target-day").value)
+      let targetTime = document.getElementById("target-time").value.split(":")
+      let targetHour = parseInt(targetTime[0])
+      let targetMinute = parseInt(targetTime[1])
+      console.log(targetDay)
+      console.log(targetHour)
+      console.log(targetMinute)
+        
+      let mapFeatures = getParishActivitiesAtTime(parishActivityJson, targetDay, targetHour, targetMinute)
+        .map(activity => {
+//          console.log(activity)
           return {
             "type": "Feature",
             "geometry": {
               "type": "Point",
-              "coordinates": [parish.long, parish.lat]
+              "coordinates": [activity.lon, activity.lat]
             },
             "properties": {
-              "name": parishName,
-              "icon": "adoration"    //In the future, have this refer to something like parish.status or something like that
-              
+              "name": activity.parish,
+              "icon": activity.activityName
             },
           }
         })
-      )
-      .then(geoJson => geoJson.filter(parish => parish.geometry.coordinates[0] != undefined))
-      .then(geoJson => {
-        return {
-          'type': 'FeatureCollection',
-          'features': geoJson
-        }
+      
+      let geoJson = {
+        'type': 'FeatureCollection',
+        'features': mapFeatures
+      }
+        
+      // https://docs.mapbox.com/mapbox-gl-js/example/geojson-markers/
+      const map = new mapboxgl.Map({
+        container: 'map', // container ID
+        style: 'mapbox://styles/mapbox/dark-v11', // style URL
+        center: [-81.649318, 41.316308], // starting position [lng, lat]
+        zoom: 8, // starting zoom
+      });
+      map.loadImage('icons/pngs/blueMarker.png', (error, bluePin) => {
+        map.addImage('mass', bluePin);
       })
-      .then(geoJson => {
-        console.log(geoJson)
-        // https://docs.mapbox.com/mapbox-gl-js/example/geojson-markers/
-        const map = new mapboxgl.Map({
-          container: 'map', // container ID
-          style: 'mapbox://styles/mapbox/dark-v11', // style URL
-          center: [-81.649318, 41.316308], // starting position [lng, lat]
-          zoom: 8, // starting zoom
+      map.loadImage('icons/pngs/purpleMarker.png', (error, purplePin) => {
+        map.addImage('confession', purplePin);
+      })
+      map.loadImage('icons/pngs/goldMarker.png', (error, goldPin) => {
+        map.addImage('adoration', goldPin);
+      })
+      map.on('load', () => {
+        map.addSource('parishes', {
+          'type': 'geojson',
+          'data': geoJson
         });
-        map.loadImage('icons/pngs/blueMarker.png', (error, bluePin) => {
-          map.addImage('mass', bluePin);
-        })
-        map.loadImage('icons/pngs/purpleMarker.png', (error, purplePin) => {
-          map.addImage('confession', purplePin);
-        })
-        map.loadImage('icons/pngs/goldMarker.png', (error, goldPin) => {
-          map.addImage('adoration', goldPin);
-        })
-        map.on('load', () => {
-          map.addSource('parishes', {
-            'type': 'geojson',
-            'data': geoJson
-          });
-          map.addLayer({
-            'id': 'parishlights',
-            'type': 'symbol',
-            'source': 'parishes',
-            'layout': {
-              // This icon is a part of the Mapbox Streets style.
-              // To view all images available in a Mapbox style, open
-              // the style in Mapbox Studio and click the "Images" tab.
-              // To add a new image to the style at runtime see 
-              // https://docs.mapbox.com/mapbox-gl-js/example/add-image/
-              //'icon-image': 'rocket'
-              'icon-image': '{icon}',
-              'icon-size': 1
-            }
-          });
-          //          map.addLayer({
-          //            'id': 'activeMasses',
-          //            'type': 'symbol',
-          //            'source': 'parishes',
-          //            'layout': {
-          //              'icon-image': 'mass',
-          //              'icon-size': 1
-          //            }
-          //          });
-          //          map.addLayer({
-          //            'id': 'activeConfession',
-          //            'type': 'symbol',
-          //            'source': 'parishes',
-          //            'layout': {
-          //              'icon-image': 'confession',
-          //              'icon-size': 1
-          //            }
-          //          });
-          //          map.addLayer({
-          //            'id': 'activeAdoration',
-          //            'type': 'symbol',
-          //            'source': 'parishes',
-          //            'layout': {
-          //              'icon-image': 'adoration',
-          //              'icon-size': 1
-          //            }
-          //          });
-          console.log(map.listImages())
-          map.on('click', 'parishlights', (e) => {
-            console.log("There was a click!", e)
-            const clickCoordinates = e.lngLat
-            const name = e.features[0].properties.name;
-            const state = e.features[0].properties.icon;
-            const info = Object.assign({}, name, state, clickCoordinates)
-            //Math to showmake sure things get zoomed out? https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
-            new mapboxgl.Popup()
-              .setLngLat(clickCoordinates)
-              .setHTML(name)
-              .addTo(map);
-          });
-        })
+        map.addLayer({
+          'id': 'parishlights',
+          'type': 'symbol',
+          'source': 'parishes',
+          'layout': {
+            // This icon is a part of the Mapbox Streets style.
+            // To view all images available in a Mapbox style, open
+            // the style in Mapbox Studio and click the "Images" tab.
+            // To add a new image to the style at runtime see 
+            // https://docs.mapbox.com/mapbox-gl-js/example/add-image/
+            //'icon-image': 'rocket'
+            'icon-image': '{icon}',
+            'icon-size': 1,
+            'icon-allow-overlap': true
+          }
+        });
+        //          map.addLayer({
+        //            'id': 'activeMasses',
+        //            'type': 'symbol',
+        //            'source': 'parishes',
+        //            'layout': {
+        //              'icon-image': 'mass',
+        //              'icon-size': 1
+        //            }
+        //          });
+        //          map.addLayer({
+        //            'id': 'activeConfession',
+        //            'type': 'symbol',
+        //            'source': 'parishes',
+        //            'layout': {
+        //              'icon-image': 'confession',
+        //              'icon-size': 1
+        //            }
+        //          });
+        //          map.addLayer({
+        //            'id': 'activeAdoration',
+        //            'type': 'symbol',
+        //            'source': 'parishes',
+        //            'layout': {
+        //              'icon-image': 'adoration',
+        //              'icon-size': 1
+        //            }
+        //          });
+        //console.log(map.listImages())
+        map.on('click', 'parishlights', (e) => {
+          console.log("There was a click!", e)
+          const clickCoordinates = e.lngLat
+          const name = e.features[0].properties.name;
+          const state = e.features[0].properties.icon;
+          const info = Object.assign({}, name, state, clickCoordinates)
+          //Math to showmake sure things get zoomed out? https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
+          new mapboxgl.Popup()
+            .setLngLat(clickCoordinates)
+            .setHTML(name)
+            .addTo(map);
+        });
       })
-  // TO MAKE THE MAP APPEAR YOU MUST
-  // ADD YOUR ACCESS TOKEN FROM
-  // https://account.mapbox.com
+    // TO MAKE THE MAP APPEAR YOU MUST
+    // ADD YOUR ACCESS TOKEN FROM
+    // https://account.mapbox.com
+
+    }
+
+    // Load JSON
+    fetch("data/activity-data.json")
+      .then(result => result.json())
+      .then(result => {
+        parishActivityJson = result;
+        updateMap();
+      });
+    
+    document.addEventListener('DOMContentLoaded', (event) => {
+      console.log('DOM fully loaded and parsed');
+      document.getElementById('target-day').addEventListener('change', updateMap)
+      document.getElementById('target-time').addEventListener('change', updateMap)
+    });
 
   </script>
-
-  test 2
-
-
   <!--
   This script places a badge on your repl's full-browser view back to your repl's cover
   page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
