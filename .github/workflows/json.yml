@@ -1,0 +1,13 @@
+name: Update-JSON
+run-name: Converting CSV to JSON
+on: [push]
+jobs:
+  run-converter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+#      - run: python csv-to-json.py
+      - run: ls -lah
+      - run: ls -lah data/
+      
+  
