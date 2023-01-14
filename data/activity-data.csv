@@ -1,0 +1,1838 @@
+parishName,lat,lon,has24HourAdoration,activityName,dayOfWeek,hourOfDay,minute,duration
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,6,8,8,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,6,16,16,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,0,7,7,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,0,9,9,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,0,11,11,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,0,18,18,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,1,6,6,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,1,8,8,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,2,6,6,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,2,8,8,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,3,6,6,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,3,8,8,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,4,6,6,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,4,8,8,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,5,6,6,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,mass,5,8,8,60
+"Assumption, Broadview Heights",41.31634518,-81.68389442,FALSE,confession,6,15,15,45
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,mass,6,17,17,60
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,mass,0,8,8,60
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,mass,0,11,11,60
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,mass,1,8,8,60
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,mass,2,8,8,60
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,mass,3,17,17,60
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,mass,5,8,8,60
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,confession,1,18,18,60
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,confession,3,18,18,60
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,confession,5,18,18,60
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,adoration,1,18,18,60
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,adoration,3,18,18,60
+"Blessed Trinity, Akron",41.1017858,-81.50419263,FALSE,adoration,5,18,18,60
+"Blessed Trinity, Cleveland",41.43453496,-81.79172602,FALSE,mass,6,16,16,60
+"Blessed Trinity, Cleveland",41.43453496,-81.79172602,FALSE,mass,0,9,9,60
+"Blessed Trinity, Cleveland",41.43453496,-81.79172602,FALSE,mass,0,11,11,60
+"Blessed Trinity, Cleveland",41.43453496,-81.79172602,FALSE,mass,1,11,11,60
+"Blessed Trinity, Cleveland",41.43453496,-81.79172602,FALSE,mass,2,8,8,60
+"Blessed Trinity, Cleveland",41.43453496,-81.79172602,FALSE,mass,3,8,8,60
+"Blessed Trinity, Cleveland",41.43453496,-81.79172602,FALSE,mass,5,8,8,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,6,16,16,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,0,8,8,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,0,10,10,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,0,12,12,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,0,17,17,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,1,7,7,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,1,12,12,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,2,7,7,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,2,12,12,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,3,7,7,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,3,12,12,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,4,7,7,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,4,12,12,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,5,7,7,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,mass,5,12,12,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,confession,1,6,6,30
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,confession,1,11,11,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,confession,2,6,6,30
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,confession,2,11,11,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,confession,3,6,6,30
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,confession,3,11,11,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,confession,4,6,6,30
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,confession,4,11,11,60
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,confession,5,6,6,30
+"Cathedral of Saint John the Evangelist, Cleveland",41.50267483,-81.68859653,FALSE,confession,5,11,11,60
+"Communion of Saints, Cleveland Heights",41.5008312,-81.5791371,FALSE,mass,6,16,16,60
+"Communion of Saints, Cleveland Heights",41.5008312,-81.5791371,FALSE,mass,0,9,9,60
+"Communion of Saints, Cleveland Heights",41.5008312,-81.5791371,FALSE,mass,0,10,10,60
+"Communion of Saints, Cleveland Heights",41.5008312,-81.5791371,FALSE,mass,0,11,11,60
+"Communion of Saints, Cleveland Heights",41.5008312,-81.5791371,FALSE,mass,1,8,8,60
+"Communion of Saints, Cleveland Heights",41.5008312,-81.5791371,FALSE,mass,2,8,8,60
+"Communion of Saints, Cleveland Heights",41.5008312,-81.5791371,FALSE,mass,3,8,8,60
+"Communion of Saints, Cleveland Heights",41.5008312,-81.5791371,FALSE,mass,4,8,8,60
+"Communion of Saints, Cleveland Heights",41.5008312,-81.5791371,FALSE,mass,5,8,8,60
+"Communion of Saints, Cleveland Heights",41.5008312,-81.5791371,FALSE,confession,6,15,15,30
+"Divine Word, Kirtland",41.6042265,-81.3541559,FALSE,mass,6,16,16,60
+"Divine Word, Kirtland",41.6042265,-81.3541559,FALSE,mass,0,8,8,60
+"Divine Word, Kirtland",41.6042265,-81.3541559,FALSE,mass,0,11,11,60
+"Divine Word, Kirtland",41.6042265,-81.3541559,FALSE,mass,1,8,8,60
+"Divine Word, Kirtland",41.6042265,-81.3541559,FALSE,mass,2,8,8,60
+"Divine Word, Kirtland",41.6042265,-81.3541559,FALSE,mass,3,8,8,60
+"Divine Word, Kirtland",41.6042265,-81.3541559,FALSE,mass,4,8,8,60
+"Divine Word, Kirtland",41.6042265,-81.3541559,FALSE,mass,5,8,8,60
+"Divine Word, Kirtland",41.6042265,-81.3541559,FALSE,confession,6,15,15,45
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,mass,6,16,16,60
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,mass,0,8,8,60
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,mass,0,10,10,60
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,mass,0,11,11,60
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,mass,1,7,7,60
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,mass,1,8,8,60
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,mass,2,7,7,60
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,mass,3,7,7,60
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,mass,3,8,8,60
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,mass,4,7,7,60
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,mass,5,7,7,60
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,mass,5,8,8,60
+"Gesu, University Heights",41.4926738,-81.5322789,FALSE,confession,6,15,15,60
+"Guardian Angels, Copley",41.0915674,-81.645418,FALSE,mass,6,17,17,60
+"Guardian Angels, Copley",41.0915674,-81.645418,FALSE,mass,0,9,9,60
+"Guardian Angels, Copley",41.0915674,-81.645418,FALSE,mass,0,11,11,60
+"Guardian Angels, Copley",41.0915674,-81.645418,FALSE,mass,1,8,8,60
+"Guardian Angels, Copley",41.0915674,-81.645418,FALSE,mass,2,8,8,60
+"Guardian Angels, Copley",41.0915674,-81.645418,FALSE,mass,4,8,8,60
+"Guardian Angels, Copley",41.0915674,-81.645418,FALSE,mass,5,8,8,60
+"Guardian Angels, Copley",41.0915674,-81.645418,FALSE,confession,6,16,16,60
+"Holy Angels, Bainbridge",41.3730347,-81.3349145,FALSE,mass,6,17,17,60
+"Holy Angels, Bainbridge",41.3730347,-81.3349145,FALSE,mass,0,9,9,60
+"Holy Angels, Bainbridge",41.3730347,-81.3349145,FALSE,mass,0,11,11,60
+"Holy Angels, Bainbridge",41.3730347,-81.3349145,FALSE,mass,1,9,9,60
+"Holy Angels, Bainbridge",41.3730347,-81.3349145,FALSE,mass,2,7,7,60
+"Holy Angels, Bainbridge",41.3730347,-81.3349145,FALSE,mass,3,9,9,60
+"Holy Angels, Bainbridge",41.3730347,-81.3349145,FALSE,mass,5,9,9,60
+"Holy Angels, Bainbridge",41.3730347,-81.3349145,FALSE,confession,6,15,15,90
+"Holy Family, Parma",41.3655954,-81.7577933,FALSE,mass,6,16,16,60
+"Holy Family, Parma",41.3655954,-81.7577933,FALSE,mass,0,7,7,60
+"Holy Family, Parma",41.3655954,-81.7577933,FALSE,mass,0,9,9,60
+"Holy Family, Parma",41.3655954,-81.7577933,FALSE,mass,0,11,11,60
+"Holy Family, Parma",41.3655954,-81.7577933,FALSE,mass,1,8,8,60
+"Holy Family, Parma",41.3655954,-81.7577933,FALSE,mass,2,8,8,60
+"Holy Family, Parma",41.3655954,-81.7577933,FALSE,mass,3,8,8,60
+"Holy Family, Parma",41.3655954,-81.7577933,FALSE,mass,4,8,8,60
+"Holy Family, Parma",41.3655954,-81.7577933,FALSE,mass,5,8,8,60
+"Holy Family, Parma",41.3655954,-81.7577933,FALSE,confession,6,15,15,45
+"Holy Family, Parma",41.3655954,-81.7577933,FALSE,adoration,0,19,19,120
+"Holy Family, Parma",41.3655954,-81.7577933,FALSE,adoration,3,13,13,120
+"Holy Family, Stow",41.1582958,-81.4448974,FALSE,mass,6,17,17,60
+"Holy Family, Stow",41.1582958,-81.4448974,FALSE,mass,0,7,7,60
+"Holy Family, Stow",41.1582958,-81.4448974,FALSE,mass,0,9,9,60
+"Holy Family, Stow",41.1582958,-81.4448974,FALSE,mass,0,11,11,60
+"Holy Family, Stow",41.1582958,-81.4448974,FALSE,mass,1,8,8,60
+"Holy Family, Stow",41.1582958,-81.4448974,FALSE,mass,2,8,8,60
+"Holy Family, Stow",41.1582958,-81.4448974,FALSE,mass,3,8,8,60
+"Holy Family, Stow",41.1582958,-81.4448974,FALSE,mass,4,8,8,60
+"Holy Family, Stow",41.1582958,-81.4448974,FALSE,mass,5,8,8,60
+"Holy Family, Stow",41.1582958,-81.4448974,FALSE,confession,6,15,15,60
+"Holy Martyrs, Medina",41.1900563,-81.7934731,FALSE,mass,6,16,16,60
+"Holy Martyrs, Medina",41.1900563,-81.7934731,FALSE,mass,0,9,9,60
+"Holy Martyrs, Medina",41.1900563,-81.7934731,FALSE,mass,0,11,11,60
+"Holy Martyrs, Medina",41.1900563,-81.7934731,FALSE,mass,0,17,17,60
+"Holy Martyrs, Medina",41.1900563,-81.7934731,FALSE,mass,1,12,12,60
+"Holy Martyrs, Medina",41.1900563,-81.7934731,FALSE,mass,2,12,12,60
+"Holy Martyrs, Medina",41.1900563,-81.7934731,FALSE,mass,3,12,12,60
+"Holy Martyrs, Medina",41.1900563,-81.7934731,FALSE,mass,4,12,12,60
+"Holy Martyrs, Medina",41.1900563,-81.7934731,FALSE,mass,5,12,12,60
+"Holy Martyrs, Medina",41.1900563,-81.7934731,FALSE,confession,6,15,15,60
+"Holy Name, Cleveland",41.4496327,-81.6297092,FALSE,mass,6,16,16,60
+"Holy Name, Cleveland",41.4496327,-81.6297092,FALSE,mass,0,8,8,60
+"Holy Name, Cleveland",41.4496327,-81.6297092,FALSE,mass,0,11,11,60
+"Holy Name, Cleveland",41.4496327,-81.6297092,FALSE,mass,0,18,18,60
+"Holy Name, Cleveland",41.4496327,-81.6297092,FALSE,mass,1,8,8,60
+"Holy Name, Cleveland",41.4496327,-81.6297092,FALSE,mass,2,8,8,60
+"Holy Name, Cleveland",41.4496327,-81.6297092,FALSE,mass,3,8,8,60
+"Holy Name, Cleveland",41.4496327,-81.6297092,FALSE,mass,4,8,8,60
+"Holy Name, Cleveland",41.4496327,-81.6297092,FALSE,mass,5,8,8,60
+"Holy Name, Cleveland",41.4496327,-81.6297092,FALSE,confession,6,14,14,60
+"Holy Name, Cleveland",41.4496327,-81.6297092,FALSE,adoration,2,17,17,60
+"Holy Redeemer, Cleveland",41.5551796,-81.5683459,FALSE,mass,6,16,16,60
+"Holy Redeemer, Cleveland",41.5551796,-81.5683459,FALSE,mass,0,10,10,60
+"Holy Redeemer, Cleveland",41.5551796,-81.5683459,FALSE,mass,1,8,8,60
+"Holy Redeemer, Cleveland",41.5551796,-81.5683459,FALSE,mass,2,8,8,60
+"Holy Redeemer, Cleveland",41.5551796,-81.5683459,FALSE,mass,3,8,8,60
+"Holy Redeemer, Cleveland",41.5551796,-81.5683459,FALSE,mass,4,8,8,60
+"Holy Redeemer, Cleveland",41.5551796,-81.5683459,FALSE,mass,5,8,8,60
+"Holy Redeemer, Cleveland",41.5551796,-81.5683459,FALSE,confession,6,15,15,30
+"Holy Rosary, Cleveland",41.5089235,-81.5987522,FALSE,mass,6,16,16,60
+"Holy Rosary, Cleveland",41.5089235,-81.5987522,FALSE,mass,0,8,8,60
+"Holy Rosary, Cleveland",41.5089235,-81.5987522,FALSE,mass,0,11,11,60
+"Holy Rosary, Cleveland",41.5089235,-81.5987522,FALSE,mass,0,20,20,60
+"Holy Rosary, Cleveland",41.5089235,-81.5987522,FALSE,mass,1,12,12,60
+"Holy Rosary, Cleveland",41.5089235,-81.5987522,FALSE,mass,2,12,12,60
+"Holy Rosary, Cleveland",41.5089235,-81.5987522,FALSE,mass,3,12,12,60
+"Holy Rosary, Cleveland",41.5089235,-81.5987522,FALSE,mass,5,12,12,60
+"Holy Rosary, Cleveland",41.5089235,-81.5987522,FALSE,confession,6,15,15,45
+"Holy Rosary, Cleveland",41.5089235,-81.5987522,FALSE,confession,3,18,18,60
+"Holy Rosary, Cleveland",41.5089235,-81.5987522,FALSE,adoration,3,18,18,60
+"Holy Spirit, Avon Lake",41.4942284,-81.9911092,FALSE,mass,6,17,17,60
+"Holy Spirit, Avon Lake",41.4942284,-81.9911092,FALSE,mass,0,9,9,60
+"Holy Spirit, Avon Lake",41.4942284,-81.9911092,FALSE,mass,0,10,10,60
+"Holy Spirit, Avon Lake",41.4942284,-81.9911092,FALSE,mass,0,12,12,60
+"Holy Spirit, Avon Lake",41.4942284,-81.9911092,FALSE,mass,1,8,8,60
+"Holy Spirit, Avon Lake",41.4942284,-81.9911092,FALSE,mass,2,8,8,60
+"Holy Spirit, Avon Lake",41.4942284,-81.9911092,FALSE,mass,4,8,8,60
+"Holy Spirit, Avon Lake",41.4942284,-81.9911092,FALSE,mass,5,8,8,60
+"Holy Spirit, Avon Lake",41.4942284,-81.9911092,FALSE,confession,6,15,15,60
+"Holy Spirit, Avon Lake",41.4942284,-81.9911092,FALSE,adoration,4,18,18,120
+"Holy Spirit, Garfield Heights",41.4411815,-81.590558,FALSE,mass,6,16,16,60
+"Holy Spirit, Garfield Heights",41.4411815,-81.590558,FALSE,mass,0,10,10,60
+"Holy Spirit, Garfield Heights",41.4411815,-81.590558,FALSE,mass,3,18,18,60
+"Holy Spirit, Garfield Heights",41.4411815,-81.590558,FALSE,confession,3,17,17,60
+"Holy Trinity, Avon",41.4525864,-81.9896452,FALSE,mass,6,17,17,60
+"Holy Trinity, Avon",41.4525864,-81.9896452,FALSE,mass,0,7,7,60
+"Holy Trinity, Avon",41.4525864,-81.9896452,FALSE,mass,0,9,9,60
+"Holy Trinity, Avon",41.4525864,-81.9896452,FALSE,mass,0,10,10,60
+"Holy Trinity, Avon",41.4525864,-81.9896452,FALSE,mass,0,12,12,60
+"Holy Trinity, Avon",41.4525864,-81.9896452,FALSE,mass,1,8,8,60
+"Holy Trinity, Avon",41.4525864,-81.9896452,FALSE,mass,2,8,8,60
+"Holy Trinity, Avon",41.4525864,-81.9896452,FALSE,mass,3,8,8,60
+"Holy Trinity, Avon",41.4525864,-81.9896452,FALSE,mass,4,8,8,60
+"Holy Trinity, Avon",41.4525864,-81.9896452,FALSE,mass,5,8,8,60
+"Holy Trinity, Avon",41.4525864,-81.9896452,FALSE,confession,6,16,16,30
+"Holy Trinity, Avon",41.4525864,-81.9896452,FALSE,adoration,4,10,10,300
+"Immaculate Conception, Akron",41.0814447,-81.5190053,FALSE,mass,6,17,17,60
+"Immaculate Conception, Akron",41.0814447,-81.5190053,FALSE,mass,0,8,8,60
+"Immaculate Conception, Akron",41.0814447,-81.5190053,FALSE,mass,0,11,11,60
+"Immaculate Conception, Akron",41.0814447,-81.5190053,FALSE,mass,1,17,17,60
+"Immaculate Conception, Akron",41.0814447,-81.5190053,FALSE,mass,3,17,17,60
+"Immaculate Conception, Akron",41.0814447,-81.5190053,FALSE,mass,5,17,17,60
+"Immaculate Conception, Akron",41.0814447,-81.5190053,FALSE,confession,6,9,9,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,mass,6,16,16,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,mass,0,8,8,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,mass,0,10,10,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,mass,0,12,12,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,mass,1,7,7,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,mass,1,8,8,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,mass,2,8,8,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,mass,3,7,7,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,mass,3,8,8,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,mass,4,8,8,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,mass,5,8,8,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,mass,5,18,18,60
+"Immaculate Conception, Cleveland",41.49932,-81.6943605,FALSE,confession,6,16,16,25
+"Immaculate Conception, Madison",41.7711633,-81.049819,FALSE,mass,6,16,16,60
+"Immaculate Conception, Madison",41.7711633,-81.049819,FALSE,mass,0,8,8,60
+"Immaculate Conception, Madison",41.7711633,-81.049819,FALSE,mass,0,10,10,60
+"Immaculate Conception, Madison",41.7711633,-81.049819,FALSE,mass,0,12,12,60
+"Immaculate Conception, Madison",41.7711633,-81.049819,FALSE,mass,1,8,8,60
+"Immaculate Conception, Madison",41.7711633,-81.049819,FALSE,mass,2,19,19,60
+"Immaculate Conception, Madison",41.7711633,-81.049819,FALSE,mass,3,8,8,60
+"Immaculate Conception, Madison",41.7711633,-81.049819,FALSE,mass,4,19,19,60
+"Immaculate Conception, Madison",41.7711633,-81.049819,FALSE,confession,6,15,15,45
+"Immaculate Conception, Madison",41.7711633,-81.049819,FALSE,confession,6,19,19,30
+"Immaculate Conception, Madison",41.7711633,-81.049819,FALSE,confession,0,11,11,45
+"Immaculate Conception, Madison",41.7711633,-81.049819,FALSE,adoration,3,9,9,420
+"Immaculate Conception, Willoughby",41.6351014,-81.4086498,FALSE,mass,6,16,16,60
+"Immaculate Conception, Willoughby",41.6351014,-81.4086498,FALSE,mass,0,8,8,60
+"Immaculate Conception, Willoughby",41.6351014,-81.4086498,FALSE,mass,0,11,11,60
+"Immaculate Conception, Willoughby",41.6351014,-81.4086498,FALSE,mass,1,7,7,60
+"Immaculate Conception, Willoughby",41.6351014,-81.4086498,FALSE,mass,2,7,7,60
+"Immaculate Conception, Willoughby",41.6351014,-81.4086498,FALSE,mass,3,7,7,60
+"Immaculate Conception, Willoughby",41.6351014,-81.4086498,FALSE,mass,4,7,7,60
+"Immaculate Conception, Willoughby",41.6351014,-81.4086498,FALSE,mass,5,7,7,60
+"Immaculate Conception, Willoughby",41.6351014,-81.4086498,FALSE,confession,5,15,15,60
+"Immaculate Heart of Mary, Cleveland",41.4522525,-81.6425706,FALSE,mass,6,8,8,60
+"Immaculate Heart of Mary, Cleveland",41.4522525,-81.6425706,FALSE,mass,0,8,8,60
+"Immaculate Heart of Mary, Cleveland",41.4522525,-81.6425706,FALSE,mass,0,10,10,60
+"Immaculate Heart of Mary, Cleveland",41.4522525,-81.6425706,FALSE,mass,0,12,12,60
+"Immaculate Heart of Mary, Cleveland",41.4522525,-81.6425706,FALSE,mass,1,8,8,60
+"Immaculate Heart of Mary, Cleveland",41.4522525,-81.6425706,FALSE,mass,2,8,8,60
+"Immaculate Heart of Mary, Cleveland",41.4522525,-81.6425706,FALSE,mass,3,8,8,60
+"Immaculate Heart of Mary, Cleveland",41.4522525,-81.6425706,FALSE,mass,4,8,8,60
+"Immaculate Heart of Mary, Cleveland",41.4522525,-81.6425706,FALSE,mass,5,8,8,60
+"Immaculate Heart of Mary, Cleveland",41.4522525,-81.6425706,FALSE,mass,5,19,19,60
+"Immaculate Heart of Mary, Cleveland",41.4522525,-81.6425706,FALSE,confession,6,15,15,30
+"Immaculate Heart of Mary, Cuyahoga Falls",41.1493242,-81.5057346,FALSE,mass,6,16,16,60
+"Immaculate Heart of Mary, Cuyahoga Falls",41.1493242,-81.5057346,FALSE,mass,0,8,8,60
+"Immaculate Heart of Mary, Cuyahoga Falls",41.1493242,-81.5057346,FALSE,mass,0,10,10,60
+"Immaculate Heart of Mary, Cuyahoga Falls",41.1493242,-81.5057346,FALSE,mass,0,16,16,60
+"Immaculate Heart of Mary, Cuyahoga Falls",41.1493242,-81.5057346,FALSE,mass,1,8,8,60
+"Immaculate Heart of Mary, Cuyahoga Falls",41.1493242,-81.5057346,FALSE,mass,2,8,8,60
+"Immaculate Heart of Mary, Cuyahoga Falls",41.1493242,-81.5057346,FALSE,mass,3,8,8,60
+"Immaculate Heart of Mary, Cuyahoga Falls",41.1493242,-81.5057346,FALSE,mass,4,8,8,60
+"Immaculate Heart of Mary, Cuyahoga Falls",41.1493242,-81.5057346,FALSE,mass,5,8,8,60
+"Immaculate Heart of Mary, Cuyahoga Falls",41.1493242,-81.5057346,FALSE,confession,6,15,15,60
+"Immaculate Heart of Mary, Cuyahoga Falls",41.1493242,-81.5057346,FALSE,adoration,3,8,8,510
+"Mary Queen of Apostles, Brook Park",41.39204,-81.8227197,FALSE,mass,6,16,16,60
+"Mary Queen of Apostles, Brook Park",41.39204,-81.8227197,FALSE,mass,6,17,17,60
+"Mary Queen of Apostles, Brook Park",41.39204,-81.8227197,FALSE,mass,0,9,9,60
+"Mary Queen of Apostles, Brook Park",41.39204,-81.8227197,FALSE,mass,0,11,11,60
+"Mary Queen of Apostles, Brook Park",41.39204,-81.8227197,FALSE,mass,1,8,8,60
+"Mary Queen of Apostles, Brook Park",41.39204,-81.8227197,FALSE,mass,2,8,8,60
+"Mary Queen of Apostles, Brook Park",41.39204,-81.8227197,FALSE,mass,3,8,8,60
+"Mary Queen of Apostles, Brook Park",41.39204,-81.8227197,FALSE,mass,4,8,8,60
+"Mary Queen of Apostles, Brook Park",41.39204,-81.8227197,FALSE,mass,5,8,8,60
+"Mary Queen of Apostles, Brook Park",41.39204,-81.8227197,FALSE,confession,6,15,15,45
+"Mary Queen of Apostles, Brook Park",41.39204,-81.8227197,FALSE,adoration,2,8,8,210
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,mass,6,8,8,60
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,mass,6,16,16,60
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,mass,0,6,6,60
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,mass,0,8,8,60
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,mass,0,11,11,60
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,mass,1,8,8,60
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,mass,2,8,8,60
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,mass,3,8,8,60
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,mass,4,8,8,60
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,mass,5,8,8,60
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,confession,6,8,8,30
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,confession,1,8,8,30
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,confession,2,8,8,30
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,confession,3,8,8,30
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,confession,4,8,8,30
+"Mary Queen of Peace, Cleveland",41.4352103,-81.7095504,FALSE,confession,5,8,8,30
+"Mother of Sorrows, Peninsula",41.2404563,-81.5484345,FALSE,mass,6,17,17,60
+"Mother of Sorrows, Peninsula",41.2404563,-81.5484345,FALSE,mass,0,8,8,60
+"Mother of Sorrows, Peninsula",41.2404563,-81.5484345,FALSE,mass,0,11,11,60
+"Mother of Sorrows, Peninsula",41.2404563,-81.5484345,FALSE,mass,1,8,8,60
+"Mother of Sorrows, Peninsula",41.2404563,-81.5484345,FALSE,mass,2,8,8,60
+"Mother of Sorrows, Peninsula",41.2404563,-81.5484345,FALSE,mass,4,8,8,60
+"Mother of Sorrows, Peninsula",41.2404563,-81.5484345,FALSE,mass,5,8,8,60
+"Mother of Sorrows, Peninsula",41.2404563,-81.5484345,FALSE,confession,6,16,16,45
+"Nativity of the Blessed Virgin Mary, Lorain",41.4560858,-82.1723563,FALSE,mass,6,16,16,60
+"Nativity of the Blessed Virgin Mary, Lorain",41.4560858,-82.1723563,FALSE,mass,0,8,8,60
+"Nativity of the Blessed Virgin Mary, Lorain",41.4560858,-82.1723563,FALSE,mass,0,10,10,60
+"Nativity of the Blessed Virgin Mary, Lorain",41.4560858,-82.1723563,FALSE,mass,1,8,8,60
+"Nativity of the Blessed Virgin Mary, Lorain",41.4560858,-82.1723563,FALSE,mass,3,6,6,60
+"Nativity of the Blessed Virgin Mary, Lorain",41.4560858,-82.1723563,FALSE,mass,4,8,8,60
+"Nativity of the Blessed Virgin Mary, Lorain",41.4560858,-82.1723563,FALSE,mass,5,8,8,60
+"Nativity of the Blessed Virgin Mary, Lorain",41.4560858,-82.1723563,FALSE,confession,6,14,14,30
+"Nativity of the Blessed Virgin Mary, South Amherst",41.350248,-82.2399213,FALSE,mass,6,17,17,60
+"Nativity of the Blessed Virgin Mary, South Amherst",41.350248,-82.2399213,FALSE,mass,2,8,8,60
+"Nativity of the Blessed Virgin Mary, South Amherst",41.350248,-82.2399213,FALSE,adoration,1,7,7,900
+"Nativity of the Lord Jesus, Akron",40.9975091,-81.4352684,FALSE,mass,6,16,16,60
+"Nativity of the Lord Jesus, Akron",40.9975091,-81.4352684,FALSE,mass,0,8,8,60
+"Nativity of the Lord Jesus, Akron",40.9975091,-81.4352684,FALSE,mass,0,11,11,60
+"Nativity of the Lord Jesus, Akron",40.9975091,-81.4352684,FALSE,mass,1,8,8,60
+"Nativity of the Lord Jesus, Akron",40.9975091,-81.4352684,FALSE,mass,2,8,8,60
+"Nativity of the Lord Jesus, Akron",40.9975091,-81.4352684,FALSE,mass,3,8,8,60
+"Nativity of the Lord Jesus, Akron",40.9975091,-81.4352684,FALSE,mass,4,8,8,60
+"Nativity of the Lord Jesus, Akron",40.9975091,-81.4352684,FALSE,mass,5,8,8,60
+"Nativity of the Lord Jesus, Akron",40.9975091,-81.4352684,FALSE,confession,6,15,15,60
+"Nativity of the Lord Jesus, Akron",40.9975091,-81.4352684,FALSE,adoration,4,12,12,420
+"Our Lady Help of Christians, Litchfield",41.1658799,-82.0336512,FALSE,mass,6,18,18,60
+"Our Lady Help of Christians, Litchfield",41.1658799,-82.0336512,FALSE,mass,0,9,9,60
+"Our Lady Help of Christians, Litchfield",41.1658799,-82.0336512,FALSE,mass,3,9,9,60
+"Our Lady Help of Christians, Litchfield",41.1658799,-82.0336512,FALSE,confession,6,19,19,60
+"Our Lady Help of Christians, Litchfield",41.1658799,-82.0336512,FALSE,confession,0,8,8,30
+"Our Lady Help of Christians, Lodi",41.0398731,-81.9872142,FALSE,mass,0,8,8,60
+"Our Lady Help of Christians, Lodi",41.0398731,-81.9872142,FALSE,mass,1,18,18,60
+"Our Lady Help of Christians, Lodi",41.0398731,-81.9872142,FALSE,confession,0,7,7,30
+"Our Lady Help of Christians, Nova",41.010055,-81.86236,FALSE,mass,0,11,11,60
+"Our Lady Help of Christians, Nova",41.010055,-81.86236,FALSE,confession,0,12,12,30
+"Our Lady Help of Christian, Seville",40.9975091,-81.4352684,FALSE,mass,6,16,16,60
+"Our Lady Help of Christian, Seville",40.9975091,-81.4352684,FALSE,mass,0,10,10,60
+"Our Lady Help of Christian, Seville",40.9975091,-81.4352684,FALSE,confession,6,15,15,30
+"Our Lady Help of Christian, Seville",40.9975091,-81.4352684,FALSE,confession,0,11,11,30
+"Our Lady of Angels, Cleveland",41.4542071,-81.8170805,FALSE,mass,6,16,16,60
+"Our Lady of Angels, Cleveland",41.4542071,-81.8170805,FALSE,mass,0,10,10,60
+"Our Lady of Guadalupe, Macedonia",41.3214958,-81.4906359,FALSE,mass,6,16,16,60
+"Our Lady of Guadalupe, Macedonia",41.3214958,-81.4906359,FALSE,mass,0,8,8,60
+"Our Lady of Guadalupe, Macedonia",41.3214958,-81.4906359,FALSE,mass,0,10,10,60
+"Our Lady of Guadalupe, Macedonia",41.3214958,-81.4906359,FALSE,mass,1,18,18,60
+"Our Lady of Guadalupe, Macedonia",41.3214958,-81.4906359,FALSE,mass,2,8,8,60
+"Our Lady of Guadalupe, Macedonia",41.3214958,-81.4906359,FALSE,mass,4,8,8,60
+"Our Lady of Guadalupe, Macedonia",41.3214958,-81.4906359,FALSE,adoration,1,9,9,660
+"Our Lady of Guadalupe, Macedonia",41.3214958,-81.4906359,FALSE,adoration,2,9,9,420
+"Our Lady of Guadalupe, Macedonia",41.3214958,-81.4906359,FALSE,adoration,3,9,9,660
+"Our Lady of Guadalupe, Macedonia",41.3214958,-81.4906359,FALSE,adoration,4,9,9,420
+"Our Lady of Guadalupe, Macedonia",41.3214958,-81.4906359,FALSE,adoration,5,9,9,420
+"Our Lady of Hope, Bedford",41.4048885,-81.5371357,FALSE,mass,6,16,16,60
+"Our Lady of Hope, Bedford",41.4048885,-81.5371357,FALSE,mass,0,11,11,60
+"Our Lady of Hope, Bedford",41.4048885,-81.5371357,FALSE,mass,1,8,8,60
+"Our Lady of Hope, Bedford",41.4048885,-81.5371357,FALSE,mass,2,8,8,60
+"Our Lady of Hope, Bedford",41.4048885,-81.5371357,FALSE,mass,5,8,8,60
+"Our Lady of Hope, Bedford",41.4048885,-81.5371357,FALSE,confession,6,15,15,30
+"Our Lady of Lourdes, Cleveland",41.4653753,-81.6519579,FALSE,mass,6,16,16,60
+"Our Lady of Lourdes, Cleveland",41.4653753,-81.6519579,FALSE,mass,0,10,10,60
+"Our Lady of Lourdes, Cleveland",41.4653753,-81.6519579,FALSE,mass,0,12,12,60
+"Our Lady of Lourdes, Cleveland",41.4653753,-81.6519579,FALSE,confession,6,15,15,30
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,6,6,6,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,6,17,17,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,0,8,8,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,0,10,10,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,0,11,11,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,0,17,17,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,1,6,6,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,1,18,18,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,2,6,6,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,2,18,18,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,3,6,6,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,3,18,18,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,4,6,6,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,4,18,18,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,5,6,6,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,mass,5,18,18,60
+"Our Lady of Mount Carmel, Cleveland",41.4836489,-81.7330876,FALSE,confession,6,15,15,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,6,8,8,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,6,16,16,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,0,7,7,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,0,9,9,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,0,11,11,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,1,7,7,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,1,19,19,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,2,7,7,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,2,8,8,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,3,7,7,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,4,7,7,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,4,8,8,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,5,7,7,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,mass,5,8,8,60
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,confession,6,15,15,45
+"Our Lady of Mount Carmel, Wickliffe",41.6114627,-81.4660849,FALSE,confession,6,17,17,45
+"Our Lady of Peace, Cleveland",41.4844412,-81.5951012,FALSE,mass,6,16,16,60
+"Our Lady of Peace, Cleveland",41.4844412,-81.5951012,FALSE,mass,0,11,11,60
+"Our Lady of Peace, Cleveland",41.4844412,-81.5951012,FALSE,mass,0,13,13,60
+"Our Lady of Peace, Cleveland",41.4844412,-81.5951012,FALSE,mass,1,17,17,60
+"Our Lady of Peace, Cleveland",41.4844412,-81.5951012,FALSE,mass,2,8,8,60
+"Our Lady of Peace, Cleveland",41.4844412,-81.5951012,FALSE,mass,2,17,17,60
+"Our Lady of Peace, Cleveland",41.4844412,-81.5951012,FALSE,mass,3,8,8,60
+"Our Lady of Peace, Cleveland",41.4844412,-81.5951012,FALSE,mass,3,17,17,60
+"Our Lady of Peace, Cleveland",41.4844412,-81.5951012,FALSE,mass,4,8,8,60
+"Our Lady of Peace, Cleveland",41.4844412,-81.5951012,FALSE,mass,4,17,17,60
+"Our Lady of Peace, Cleveland",41.4844412,-81.5951012,FALSE,mass,5,8,8,60
+"Our Lady of Peace, Cleveland",41.4844412,-81.5951012,FALSE,mass,5,17,17,60
+"Our Lady of the Lake, Euclid",41.601139,-81.5410756,FALSE,mass,6,16,16,60
+"Our Lady of the Lake, Euclid",41.601139,-81.5410756,FALSE,mass,0,8,8,60
+"Our Lady of the Lake, Euclid",41.601139,-81.5410756,FALSE,mass,0,11,11,60
+"Our Lady of the Lake, Euclid",41.601139,-81.5410756,FALSE,mass,1,9,9,60
+"Our Lady of the Lake, Euclid",41.601139,-81.5410756,FALSE,mass,2,9,9,60
+"Our Lady of the Lake, Euclid",41.601139,-81.5410756,FALSE,mass,3,9,9,60
+"Our Lady of the Lake, Euclid",41.601139,-81.5410756,FALSE,mass,4,9,9,60
+"Our Lady of the Lake, Euclid",41.601139,-81.5410756,FALSE,confession,6,15,15,30
+"Our Lady of Victory, Tallmadge",41.1047372,-81.4415613,FALSE,mass,6,17,17,60
+"Our Lady of Victory, Tallmadge",41.1047372,-81.4415613,FALSE,mass,0,8,8,60
+"Our Lady of Victory, Tallmadge",41.1047372,-81.4415613,FALSE,mass,0,11,11,60
+"Our Lady of Victory, Tallmadge",41.1047372,-81.4415613,FALSE,mass,1,8,8,60
+"Our Lady of Victory, Tallmadge",41.1047372,-81.4415613,FALSE,mass,2,8,8,60
+"Our Lady of Victory, Tallmadge",41.1047372,-81.4415613,FALSE,mass,3,8,8,60
+"Our Lady of Victory, Tallmadge",41.1047372,-81.4415613,FALSE,mass,4,8,8,60
+"Our Lady of Victory, Tallmadge",41.1047372,-81.4415613,FALSE,confession,6,9,9,30
+"Our Lady Queen of Peace, Grafton",41.2778017,-82.0600448,FALSE,mass,6,16,16,60
+"Our Lady Queen of Peace, Grafton",41.2778017,-82.0600448,FALSE,mass,0,8,8,60
+"Our Lady Queen of Peace, Grafton",41.2778017,-82.0600448,FALSE,mass,0,11,11,60
+"Our Lady Queen of Peace, Grafton",41.2778017,-82.0600448,FALSE,mass,1,9,9,60
+"Our Lady Queen of Peace, Grafton",41.2778017,-82.0600448,FALSE,mass,2,9,9,60
+"Our Lady Queen of Peace, Grafton",41.2778017,-82.0600448,FALSE,mass,3,18,18,60
+"Our Lady Queen of Peace, Grafton",41.2778017,-82.0600448,FALSE,mass,4,9,9,60
+"Our Lady Queen of Peace, Grafton",41.2778017,-82.0600448,FALSE,mass,5,9,9,60
+"Our Lady Queen of Peace, Grafton",41.2778017,-82.0600448,FALSE,confession,6,15,15,30
+"Our Lady Queen of Peace, Grafton",41.2778017,-82.0600448,FALSE,adoration,3,14,14,240
+"Prince of Peace, Norton",41.0158417,-81.6362693,FALSE,mass,6,16,16,60
+"Prince of Peace, Norton",41.0158417,-81.6362693,FALSE,mass,0,8,8,60
+"Prince of Peace, Norton",41.0158417,-81.6362693,FALSE,mass,0,10,10,60
+"Prince of Peace, Norton",41.0158417,-81.6362693,FALSE,mass,2,8,8,60
+"Prince of Peace, Norton",41.0158417,-81.6362693,FALSE,mass,3,8,8,60
+"Prince of Peace, Norton",41.0158417,-81.6362693,FALSE,mass,4,8,8,60
+"Prince of Peace, Norton",41.0158417,-81.6362693,FALSE,mass,5,8,8,60
+"Prince of Peace, Norton",41.0158417,-81.6362693,FALSE,confession,6,15,15,30
+"Resurrection of Our Lord, Solon",41.3897764,-81.4412259,FALSE,mass,6,17,17,60
+"Resurrection of Our Lord, Solon",41.3897764,-81.4412259,FALSE,mass,0,9,9,60
+"Resurrection of Our Lord, Solon",41.3897764,-81.4412259,FALSE,mass,0,11,11,60
+"Resurrection of Our Lord, Solon",41.3897764,-81.4412259,FALSE,mass,1,8,8,60
+"Resurrection of Our Lord, Solon",41.3897764,-81.4412259,FALSE,mass,2,8,8,60
+"Resurrection of Our Lord, Solon",41.3897764,-81.4412259,FALSE,mass,3,8,8,60
+"Resurrection of Our Lord, Solon",41.3897764,-81.4412259,FALSE,mass,4,8,8,60
+"Resurrection of Our Lord, Solon",41.3897764,-81.4412259,FALSE,mass,5,8,8,60
+"Resurrection of Our Lord, Solon",41.3897764,-81.4412259,FALSE,confession,6,16,16,45
+"Sacred Heart, Oberlin",41.0258861,-81.7229917,FALSE,mass,6,16,16,60
+"Sacred Heart, Oberlin",41.0258861,-81.7229917,FALSE,mass,0,10,10,60
+"Sacred Heart, Oberlin",41.0258861,-81.7229917,FALSE,mass,4,8,8,60
+"Sacred Heart, Oberlin",41.0258861,-81.7229917,FALSE,mass,5,8,8,60
+"Sacred Heart Chapel, Lorain",41.3897764,-81.4412259,FALSE,mass,6,17,17,60
+"Sacred Heart Chapel, Lorain",41.3897764,-81.4412259,FALSE,mass,0,9,9,60
+"Sacred Heart Chapel, Lorain",41.3897764,-81.4412259,FALSE,mass,0,11,11,60
+"Sacred Heart Chapel, Lorain",41.3897764,-81.4412259,FALSE,mass,1,9,9,60
+"Sacred Heart Chapel, Lorain",41.3897764,-81.4412259,FALSE,mass,2,9,9,60
+"Sacred Heart Chapel, Lorain",41.3897764,-81.4412259,FALSE,mass,3,18,18,60
+"Sacred Heart Chapel, Lorain",41.3897764,-81.4412259,FALSE,mass,5,9,9,60
+"Sacred Heart Chapel, Lorain",41.3897764,-81.4412259,FALSE,confession,6,15,15,60
+"Sacred Heart Chapel, Lorain",41.3897764,-81.4412259,FALSE,confession,2,10,10,75
+"Sacred Heart Chapel, Lorain",41.3897764,-81.4412259,FALSE,confession,3,6,6,45
+"Sacred Heart Chapel, Lorain",41.3897764,-81.4412259,FALSE,adoration,2,10,10,120
+"Sacred Heart Chapel, Lorain",41.3897764,-81.4412259,FALSE,adoration,3,18,18,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,6,6,6,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,6,16,16,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,0,8,8,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,0,10,10,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,0,11,11,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,0,17,17,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,1,6,6,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,1,12,12,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,2,6,6,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,2,12,12,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,3,6,6,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,3,12,12,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,4,6,6,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,4,12,12,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,5,6,6,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,mass,5,12,12,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,confession,6,14,14,60
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,confession,0,9,9,45
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,confession,1,11,11,30
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,confession,2,11,11,30
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,confession,3,11,11,30
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,confession,4,11,11,30
+"Sacred Heart of Jesus, South Euclid",41.3897764,-81.4412259,FALSE,confession,5,11,11,30
+"Sacred Heart of Jesus, Wadsworth",41.3897764,-81.4412259,FALSE,mass,6,17,17,60
+"Sacred Heart of Jesus, Wadsworth",41.3897764,-81.4412259,FALSE,mass,0,8,8,60
+"Sacred Heart of Jesus, Wadsworth",41.3897764,-81.4412259,FALSE,mass,0,10,10,60
+"Sacred Heart of Jesus, Wadsworth",41.3897764,-81.4412259,FALSE,mass,0,17,17,60
+"Sacred Heart of Jesus, Wadsworth",41.3897764,-81.4412259,FALSE,mass,1,8,8,60
+"Sacred Heart of Jesus, Wadsworth",41.3897764,-81.4412259,FALSE,mass,2,8,8,60
+"Sacred Heart of Jesus, Wadsworth",41.3897764,-81.4412259,FALSE,mass,3,8,8,60
+"Sacred Heart of Jesus, Wadsworth",41.3897764,-81.4412259,FALSE,mass,5,8,8,60
+"Sacred Heart of Jesus, Wadsworth",41.3897764,-81.4412259,FALSE,confession,6,11,11,60
+"Sagrada Familia, Cleveland",41.4817672,-81.738076,FALSE,mass,6,17,17,60
+"Sagrada Familia, Cleveland",41.4817672,-81.738076,FALSE,mass,0,10,10,60
+"Sagrada Familia, Cleveland",41.4817672,-81.738076,FALSE,mass,0,14,14,60
+"Sagrada Familia, Cleveland",41.4817672,-81.738076,FALSE,mass,3,18,18,60
+"Sagrada Familia, Cleveland",41.4817672,-81.738076,FALSE,mass,4,18,18,60
+"Sagrada Familia, Cleveland",41.4817672,-81.738076,FALSE,mass,5,18,18,60
+"Sagrada Familia, Cleveland",41.4817672,-81.738076,FALSE,confession,6,16,16,30
+"Sagrada Familia, Cleveland",41.4817672,-81.738076,FALSE,confession,0,9,9,30
+"Sagrada Familia, Cleveland",41.4817672,-81.738076,FALSE,confession,4,18,18,30
+"Sagrada Familia, Cleveland",41.4817672,-81.738076,FALSE,adoration,4,17,17,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,mass,6,9,9,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,mass,6,16,16,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,mass,0,8,8,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,mass,0,10,10,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,mass,0,11,11,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,mass,0,19,19,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,mass,1,8,8,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,mass,2,18,18,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,mass,3,8,8,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,mass,4,18,18,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,mass,5,8,8,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,mass,5,17,17,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,confession,6,15,15,60
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,confession,2,17,17,45
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,confession,4,17,17,45
+"St. Adalbert, Berea",41.3753306,-81.8553417,FALSE,adoration,2,9,9,570
+"St. Adalbert, Cleveland",41.4952634,-81.6291707,FALSE,mass,6,16,16,60
+"St. Adalbert, Cleveland",41.4952634,-81.6291707,FALSE,mass,0,8,8,60
+"St. Adalbert, Cleveland",41.4952634,-81.6291707,FALSE,mass,0,10,10,60
+"St. Adalbert, Cleveland",41.4952634,-81.6291707,FALSE,mass,0,11,11,60
+"St. Adalbert, Cleveland",41.4952634,-81.6291707,FALSE,mass,4,9,9,60
+"St. Agnes - Our Lady of Fatima, Cleveland",41.510577,-81.6425046,FALSE,mass,6,17,17,60
+"St. Agnes - Our Lady of Fatima, Cleveland",41.510577,-81.6425046,FALSE,mass,0,8,8,60
+"St. Agnes - Our Lady of Fatima, Cleveland",41.510577,-81.6425046,FALSE,mass,0,10,10,60
+"St. Agnes - Our Lady of Fatima, Cleveland",41.510577,-81.6425046,FALSE,confession,6,16,16,30
+"St. Agnes, Elyria",41.37718,-82.1202311,FALSE,mass,6,16,16,60
+"St. Agnes, Elyria",41.37718,-82.1202311,FALSE,mass,0,10,10,60
+"St. Agnes, Elyria",41.37718,-82.1202311,FALSE,mass,1,9,9,60
+"St. Agnes, Elyria",41.37718,-82.1202311,FALSE,mass,2,9,9,60
+"St. Agnes, Elyria",41.37718,-82.1202311,FALSE,mass,3,9,9,60
+"St. Agnes, Elyria",41.37718,-82.1202311,FALSE,mass,5,9,9,60
+"St. Agnes, Elyria",41.37718,-82.1202311,FALSE,confession,6,15,15,30
+"St. Agnes, Elyria",41.37718,-82.1202311,FALSE,adoration,4,9,9,300
+"St. Agnes, Orrville",40.8350542,-81.7592721,FALSE,mass,6,17,17,60
+"St. Agnes, Orrville",40.8350542,-81.7592721,FALSE,mass,0,9,9,60
+"St. Agnes, Orrville",40.8350542,-81.7592721,FALSE,mass,0,10,10,60
+"St. Agnes, Orrville",40.8350542,-81.7592721,FALSE,mass,0,11,11,60
+"St. Agnes, Orrville",40.8350542,-81.7592721,FALSE,mass,1,8,8,60
+"St. Agnes, Orrville",40.8350542,-81.7592721,FALSE,mass,2,8,8,60
+"St. Agnes, Orrville",40.8350542,-81.7592721,FALSE,mass,3,8,8,60
+"St. Agnes, Orrville",40.8350542,-81.7592721,FALSE,mass,4,8,8,60
+"St. Agnes, Orrville",40.8350542,-81.7592721,FALSE,mass,5,8,8,60
+"St. Agnes, Orrville",40.8350542,-81.7592721,FALSE,confession,6,15,15,60
+"St. Agnes, Orrville",40.8350542,-81.7592721,FALSE,adoration,4,8,8,720
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,6,16,16,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,6,17,17,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,0,7,7,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,0,9,9,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,0,11,11,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,0,18,18,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,1,7,7,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,1,18,18,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,2,7,7,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,2,11,11,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,3,7,7,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,3,11,11,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,4,7,7,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,4,11,11,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,mass,5,7,7,60
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,confession,6,15,15,30
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,adoration,1,8,8,660
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,adoration,2,8,8,660
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,adoration,3,8,8,660
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,adoration,4,8,8,660
+"St. Albert the Great, North Royalton",41.3246855,-81.7334848,FALSE,adoration,5,8,8,660
+"St. Aloysius - St. Agatha, Cleveland",41.5397126,-81.6091016,FALSE,mass,0,10,10,60
+"St. Aloysius - St. Agatha, Cleveland",41.5397126,-81.6091016,FALSE,confession,6,9,9,45
+"St. Ambrose, Brunswick",41.2498025,-81.8403235,FALSE,mass,6,16,16,60
+"St. Ambrose, Brunswick",41.2498025,-81.8403235,FALSE,mass,0,7,7,60
+"St. Ambrose, Brunswick",41.2498025,-81.8403235,FALSE,mass,0,9,9,60
+"St. Ambrose, Brunswick",41.2498025,-81.8403235,FALSE,mass,0,10,10,60
+"St. Ambrose, Brunswick",41.2498025,-81.8403235,FALSE,mass,0,12,12,60
+"St. Ambrose, Brunswick",41.2498025,-81.8403235,FALSE,mass,0,5,5,60
+"St. Ambrose, Brunswick",41.2498025,-81.8403235,FALSE,mass,1,8,8,60
+"St. Ambrose, Brunswick",41.2498025,-81.8403235,FALSE,mass,3,8,8,60
+"St. Ambrose, Brunswick",41.2498025,-81.8403235,FALSE,mass,4,17,17,60
+"St. Ambrose, Brunswick",41.2498025,-81.8403235,FALSE,mass,5,8,8,60
+"St. Ambrose, Brunswick",41.2498025,-81.8403235,FALSE,adoration,1,8,8,675
+"St. Andrew Kim, Cleveland",41.4806699,-81.6918659,FALSE,mass,6,10,10,60
+"St. Andrew Kim, Cleveland",41.4806699,-81.6918659,FALSE,mass,0,10,10,60
+"St. Andrew Kim, Cleveland",41.4806699,-81.6918659,FALSE,mass,1,10,10,60
+"St. Andrew Kim, Cleveland",41.4806699,-81.6918659,FALSE,mass,2,19,19,60
+"St. Andrew Kim, Cleveland",41.4806699,-81.6918659,FALSE,mass,3,10,10,60
+"St. Andrew Kim, Cleveland",41.4806699,-81.6918659,FALSE,mass,4,19,19,60
+"St. Andrew Kim, Cleveland",41.4806699,-81.6918659,FALSE,mass,5,10,10,60
+"St. Andrew the Apostle, Norton",41.0036728,-81.6666353,FALSE,mass,6,8,8,60
+"St. Andrew the Apostle, Norton",41.0036728,-81.6666353,FALSE,mass,6,17,17,60
+"St. Andrew the Apostle, Norton",41.0036728,-81.6666353,FALSE,mass,0,8,8,60
+"St. Andrew the Apostle, Norton",41.0036728,-81.6666353,FALSE,mass,0,10,10,60
+"St. Andrew the Apostle, Norton",41.0036728,-81.6666353,FALSE,mass,0,11,11,60
+"St. Andrew the Apostle, Norton",41.0036728,-81.6666353,FALSE,mass,1,8,8,60
+"St. Andrew the Apostle, Norton",41.0036728,-81.6666353,FALSE,mass,2,8,8,60
+"St. Andrew the Apostle, Norton",41.0036728,-81.6666353,FALSE,mass,3,8,8,60
+"St. Andrew the Apostle, Norton",41.0036728,-81.6666353,FALSE,mass,4,8,8,60
+"St. Andrew the Apostle, Norton",41.0036728,-81.6666353,FALSE,mass,5,8,8,60
+"St. Andrew the Apostle, Norton",41.0036728,-81.6666353,FALSE,confession,6,15,15,45
+"St. Angela Merici, Fairview Park",41.4472112,-81.8518541,FALSE,mass,6,8,8,60
+"St. Angela Merici, Fairview Park",41.4472112,-81.8518541,FALSE,mass,6,16,16,60
+"St. Angela Merici, Fairview Park",41.4472112,-81.8518541,FALSE,mass,0,7,7,60
+"St. Angela Merici, Fairview Park",41.4472112,-81.8518541,FALSE,mass,0,9,9,60
+"St. Angela Merici, Fairview Park",41.4472112,-81.8518541,FALSE,mass,0,11,11,60
+"St. Angela Merici, Fairview Park",41.4472112,-81.8518541,FALSE,mass,0,17,17,60
+"St. Angela Merici, Fairview Park",41.4472112,-81.8518541,FALSE,mass,1,8,8,60
+"St. Angela Merici, Fairview Park",41.4472112,-81.8518541,FALSE,mass,2,8,8,60
+"St. Angela Merici, Fairview Park",41.4472112,-81.8518541,FALSE,mass,3,8,8,60
+"St. Angela Merici, Fairview Park",41.4472112,-81.8518541,FALSE,mass,4,8,8,60
+"St. Angela Merici, Fairview Park",41.4472112,-81.8518541,FALSE,mass,5,8,8,60
+"St. Angela Merici, Fairview Park",41.4472112,-81.8518541,FALSE,confession,6,15,15,60
+"St. Anne, Rittman",40.972591,-81.7840945,FALSE,mass,6,18,18,60
+"St. Anselm, Chesterland",41.5142629,-81.3373469,FALSE,mass,6,16,16,60
+"St. Anselm, Chesterland",41.5142629,-81.3373469,FALSE,mass,0,9,9,60
+"St. Anselm, Chesterland",41.5142629,-81.3373469,FALSE,mass,0,11,11,60
+"St. Anselm, Chesterland",41.5142629,-81.3373469,FALSE,mass,1,8,8,60
+"St. Anselm, Chesterland",41.5142629,-81.3373469,FALSE,mass,2,8,8,60
+"St. Anselm, Chesterland",41.5142629,-81.3373469,FALSE,mass,3,19,19,60
+"St. Anselm, Chesterland",41.5142629,-81.3373469,FALSE,mass,4,8,8,60
+"St. Anselm, Chesterland",41.5142629,-81.3373469,FALSE,mass,5,8,8,60
+"St. Anselm, Chesterland",41.5142629,-81.3373469,FALSE,confession,6,14,14,60
+"St. Anthony of Padua, Akron",41.0988932,-81.5125001,FALSE,mass,6,16,16,60
+"St. Anthony of Padua, Akron",41.0988932,-81.5125001,FALSE,mass,0,8,8,60
+"St. Anthony of Padua, Akron",41.0988932,-81.5125001,FALSE,mass,0,10,10,60
+"St. Anthony of Padua, Akron",41.0988932,-81.5125001,FALSE,mass,1,17,17,60
+"St. Anthony of Padua, Akron",41.0988932,-81.5125001,FALSE,mass,2,17,17,60
+"St. Anthony of Padua, Akron",41.0988932,-81.5125001,FALSE,mass,3,7,7,60
+"St. Anthony of Padua, Akron",41.0988932,-81.5125001,FALSE,mass,5,8,8,60
+"St. Anthony of Padua, Akron",41.0988932,-81.5125001,FALSE,confession,6,17,17,30
+"St. Anthony of Padua, Akron",41.0988932,-81.5125001,FALSE,confession,1,17,17,30
+"St. Anthony of Padua, Akron",41.0988932,-81.5125001,FALSE,confession,2,17,17,30
+"St. Anthony of Padua, Fairport Harbor",41.7517202,-81.2742173,FALSE,mass,6,16,16,60
+"St. Anthony of Padua, Fairport Harbor",41.7517202,-81.2742173,FALSE,mass,0,8,8,60
+"St. Anthony of Padua, Fairport Harbor",41.7517202,-81.2742173,FALSE,mass,0,10,10,60
+"St. Anthony of Padua, Fairport Harbor",41.7517202,-81.2742173,FALSE,mass,3,8,8,60
+"St. Anthony of Padua, Fairport Harbor",41.7517202,-81.2742173,FALSE,confession,6,15,15,30
+"St. Anthony of Padua, Fairport Harbor",41.7517202,-81.2742173,FALSE,adoration,1,15,15,240
+"St. Anthony of Padua, Lorain",41.4751289,-82.1605287,FALSE,mass,6,16,16,60
+"St. Anthony of Padua, Lorain",41.4751289,-82.1605287,FALSE,mass,0,10,10,60
+"St. Anthony of Padua, Lorain",41.4751289,-82.1605287,FALSE,mass,1,8,8,60
+"St. Anthony of Padua, Lorain",41.4751289,-82.1605287,FALSE,mass,2,8,8,60
+"St. Anthony of Padua, Lorain",41.4751289,-82.1605287,FALSE,confession,6,15,15,30
+"St. Anthony of Padua, Lorain",41.4751289,-82.1605287,FALSE,adoration,1,8,8,420
+"St. Anthony of Padua, Lorain",41.4751289,-82.1605287,FALSE,adoration,2,8,8,420
+"St. Anthony of Padua, Lorain",41.4751289,-82.1605287,FALSE,adoration,3,8,8,420
+"St. Anthony of Padua, Lorain",41.4751289,-82.1605287,FALSE,adoration,4,8,8,420
+"St. Anthony of Padua, Lorain",41.4751289,-82.1605287,FALSE,adoration,5,8,8,420
+"St. Anthony of Padua, Parma",41.3803841,-81.7141726,FALSE,mass,6,16,16,60
+"St. Anthony of Padua, Parma",41.3803841,-81.7141726,FALSE,mass,6,18,18,60
+"St. Anthony of Padua, Parma",41.3803841,-81.7141726,FALSE,mass,0,8,8,60
+"St. Anthony of Padua, Parma",41.3803841,-81.7141726,FALSE,mass,0,10,10,60
+"St. Anthony of Padua, Parma",41.3803841,-81.7141726,FALSE,mass,0,12,12,60
+"St. Anthony of Padua, Parma",41.3803841,-81.7141726,FALSE,mass,1,8,8,60
+"St. Anthony of Padua, Parma",41.3803841,-81.7141726,FALSE,mass,2,8,8,60
+"St. Anthony of Padua, Parma",41.3803841,-81.7141726,FALSE,mass,3,8,8,60
+"St. Anthony of Padua, Parma",41.3803841,-81.7141726,FALSE,mass,4,8,8,60
+"St. Anthony of Padua, Parma",41.3803841,-81.7141726,FALSE,mass,5,8,8,60
+"St. Anthony of Padua, Parma",41.3803841,-81.7141726,FALSE,confession,5,15,15,60
+"St. Augustine, Barberton",41.0163714,-81.6125705,FALSE,mass,6,8,8,60
+"St. Augustine, Barberton",41.0163714,-81.6125705,FALSE,mass,6,16,16,60
+"St. Augustine, Barberton",41.0163714,-81.6125705,FALSE,mass,0,8,8,60
+"St. Augustine, Barberton",41.0163714,-81.6125705,FALSE,mass,0,10,10,60
+"St. Augustine, Barberton",41.0163714,-81.6125705,FALSE,mass,0,17,17,60
+"St. Augustine, Barberton",41.0163714,-81.6125705,FALSE,mass,1,8,8,60
+"St. Augustine, Barberton",41.0163714,-81.6125705,FALSE,mass,2,17,17,60
+"St. Augustine, Barberton",41.0163714,-81.6125705,FALSE,mass,3,12,12,60
+"St. Augustine, Barberton",41.0163714,-81.6125705,FALSE,mass,4,12,12,60
+"St. Augustine, Barberton",41.0163714,-81.6125705,FALSE,mass,5,12,12,60
+"St. Augustine, Barberton",41.0163714,-81.6125705,FALSE,confession,6,15,15,45
+"St. Augustine, Barberton",41.0163714,-81.6125705,FALSE,confession,1,18,18,60
+"St. Augustine, Cleveland",41.4787431,-81.691995,FALSE,mass,6,16,16,60
+"St. Augustine, Cleveland",41.4787431,-81.691995,FALSE,mass,0,8,8,60
+"St. Augustine, Cleveland",41.4787431,-81.691995,FALSE,mass,0,11,11,60
+"St. Augustine, Cleveland",41.4787431,-81.691995,FALSE,mass,1,17,17,60
+"St. Augustine, Cleveland",41.4787431,-81.691995,FALSE,mass,2,17,17,60
+"St. Augustine, Cleveland",41.4787431,-81.691995,FALSE,mass,3,17,17,60
+"St. Augustine, Cleveland",41.4787431,-81.691995,FALSE,mass,4,17,17,60
+"St. Augustine, Cleveland",41.4787431,-81.691995,FALSE,mass,5,17,17,60
+"St. Augustine, Cleveland",41.4787431,-81.691995,FALSE,confession,6,15,15,30
+"St. Barbara, Cleveland",41.4513158,-81.6913123,FALSE,mass,6,16,16,60
+"St. Barbara, Cleveland",41.4513158,-81.6913123,FALSE,mass,0,9,9,60
+"St. Barbara, Cleveland",41.4513158,-81.6913123,FALSE,mass,0,11,11,60
+"St. Barbara, Cleveland",41.4513158,-81.6913123,FALSE,mass,1,7,7,60
+"St. Barbara, Cleveland",41.4513158,-81.6913123,FALSE,mass,2,7,7,60
+"St. Barbara, Cleveland",41.4513158,-81.6913123,FALSE,mass,3,7,7,60
+"St. Barbara, Cleveland",41.4513158,-81.6913123,FALSE,mass,4,7,7,60
+"St. Barbara, Cleveland",41.4513158,-81.6913123,FALSE,mass,5,7,7,60
+"St. Barbara, Cleveland",41.4513158,-81.6913123,FALSE,confession,6,15,15,30
+"St. Barbara, Cleveland",41.4513158,-81.6913123,FALSE,confession,0,10,10,15
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,mass,6,8,8,60
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,mass,6,17,17,60
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,mass,0,8,8,60
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,mass,0,11,11,60
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,mass,0,17,17,60
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,mass,1,8,8,60
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,mass,2,8,8,60
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,mass,3,7,7,60
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,mass,4,7,7,60
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,mass,5,8,8,60
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,confession,6,9,9,30
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,confession,6,15,15,60
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,confession,3,18,18,60
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,adoration,6,9,9,840
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,adoration,0,12,12,660
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,adoration,1,8,8,870
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,adoration,2,8,8,870
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,adoration,3,8,8,870
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,adoration,4,8,8,870
+"St. Barnabas, Northfield",41.3116244,-81.5372466,FALSE,adoration,5,8,8,870
+"St. Bartholomew, Middleburg Heights",41.3667002,-81.8026025,FALSE,mass,6,16,16,60
+"St. Bartholomew, Middleburg Heights",41.3667002,-81.8026025,FALSE,mass,0,9,9,60
+"St. Bartholomew, Middleburg Heights",41.3667002,-81.8026025,FALSE,mass,0,11,11,60
+"St. Bartholomew, Middleburg Heights",41.3667002,-81.8026025,FALSE,mass,1,8,8,60
+"St. Bartholomew, Middleburg Heights",41.3667002,-81.8026025,FALSE,mass,2,8,8,60
+"St. Bartholomew, Middleburg Heights",41.3667002,-81.8026025,FALSE,mass,3,8,8,60
+"St. Bartholomew, Middleburg Heights",41.3667002,-81.8026025,FALSE,mass,5,8,8,60
+"St. Bartholomew, Middleburg Heights",41.3667002,-81.8026025,FALSE,confession,6,15,15,30
+"St. Basil The Great, Brecksville",41.3255556,-81.6277778,FALSE,mass,6,5,5,60
+"St. Basil The Great, Brecksville",41.3255556,-81.6277778,FALSE,mass,6,17,17,60
+"St. Basil The Great, Brecksville",41.3255556,-81.6277778,FALSE,mass,0,9,9,60
+"St. Basil The Great, Brecksville",41.3255556,-81.6277778,FALSE,mass,0,11,11,60
+"St. Basil The Great, Brecksville",41.3255556,-81.6277778,FALSE,mass,0,17,17,60
+"St. Basil The Great, Brecksville",41.3255556,-81.6277778,FALSE,mass,1,8,8,60
+"St. Basil The Great, Brecksville",41.3255556,-81.6277778,FALSE,mass,2,8,8,60
+"St. Basil The Great, Brecksville",41.3255556,-81.6277778,FALSE,mass,3,8,8,60
+"St. Basil The Great, Brecksville",41.3255556,-81.6277778,FALSE,mass,4,8,8,60
+"St. Basil The Great, Brecksville",41.3255556,-81.6277778,FALSE,mass,5,8,8,60
+"St. Basil The Great, Brecksville",41.3255556,-81.6277778,FALSE,confession,6,15,15,60
+"St. Bede the Venerable, Mentor",41.7205194,-81.3118,FALSE,mass,6,16,16,60
+"St. Bede the Venerable, Mentor",41.7205194,-81.3118,FALSE,mass,0,9,9,60
+"St. Bede the Venerable, Mentor",41.7205194,-81.3118,FALSE,mass,0,11,11,60
+"St. Bede the Venerable, Mentor",41.7205194,-81.3118,FALSE,mass,1,9,9,60
+"St. Bede the Venerable, Mentor",41.7205194,-81.3118,FALSE,mass,2,9,9,60
+"St. Bede the Venerable, Mentor",41.7205194,-81.3118,FALSE,mass,3,9,9,60
+"St. Bede the Venerable, Mentor",41.7205194,-81.3118,FALSE,mass,5,9,9,60
+"St. Bede the Venerable, Mentor",41.7205194,-81.3118,FALSE,confession,6,15,15,30
+"St. Bede the Venerable, Mentor",41.7205194,-81.3118,FALSE,adoration,5,9,9,390
+"St. Bernadette, Westlake",41.4542944,-81.8864083,FALSE,mass,6,8,8,60
+"St. Bernadette, Westlake",41.4542944,-81.8864083,FALSE,mass,6,17,17,60
+"St. Bernadette, Westlake",41.4542944,-81.8864083,FALSE,mass,0,8,8,60
+"St. Bernadette, Westlake",41.4542944,-81.8864083,FALSE,mass,0,9,9,60
+"St. Bernadette, Westlake",41.4542944,-81.8864083,FALSE,mass,0,11,11,60
+"St. Bernadette, Westlake",41.4542944,-81.8864083,FALSE,mass,1,9,9,60
+"St. Bernadette, Westlake",41.4542944,-81.8864083,FALSE,mass,2,8,8,60
+"St. Bernadette, Westlake",41.4542944,-81.8864083,FALSE,mass,3,9,9,60
+"St. Bernadette, Westlake",41.4542944,-81.8864083,FALSE,mass,4,8,8,60
+"St. Bernadette, Westlake",41.4542944,-81.8864083,FALSE,mass,5,9,9,60
+"St. Bernadette, Westlake",41.4542944,-81.8864083,FALSE,confession,6,16,16,45
+"St. Bernard, Akron",41.0781474,-81.5182536,FALSE,mass,6,16,16,60
+"St. Bernard, Akron",41.0781474,-81.5182536,FALSE,mass,0,10,10,60
+"St. Bernard, Akron",41.0781474,-81.5182536,FALSE,mass,0,12,12,60
+"St. Bernard, Akron",41.0781474,-81.5182536,FALSE,mass,0,20,20,60
+"St. Bernard, Akron",41.0781474,-81.5182536,FALSE,mass,1,12,12,60
+"St. Bernard, Akron",41.0781474,-81.5182536,FALSE,mass,2,12,12,60
+"St. Bernard, Akron",41.0781474,-81.5182536,FALSE,mass,3,12,12,60
+"St. Bernard, Akron",41.0781474,-81.5182536,FALSE,mass,4,12,12,60
+"St. Bernard, Akron",41.0781474,-81.5182536,FALSE,mass,5,12,12,60
+"St. Bernard, Akron",41.0781474,-81.5182536,FALSE,confession,5,15,15,60
+"St. Boniface, Cleveland",41.4577653,-81.7247027,FALSE,mass,6,8,8,60
+"St. Boniface, Cleveland",41.4577653,-81.7247027,FALSE,mass,6,17,17,60
+"St. Boniface, Cleveland",41.4577653,-81.7247027,FALSE,mass,0,10,10,60
+"St. Boniface, Cleveland",41.4577653,-81.7247027,FALSE,mass,1,8,8,60
+"St. Boniface, Cleveland",41.4577653,-81.7247027,FALSE,mass,2,8,8,60
+"St. Boniface, Cleveland",41.4577653,-81.7247027,FALSE,mass,3,8,8,60
+"St. Boniface, Cleveland",41.4577653,-81.7247027,FALSE,mass,4,8,8,60
+"St. Boniface, Cleveland",41.4577653,-81.7247027,FALSE,mass,5,8,8,60
+"St. Boniface, Cleveland",41.4577653,-81.7247027,FALSE,confession,6,16,16,30
+"St. Boniface, Cleveland",41.4577653,-81.7247027,FALSE,confession,0,9,9,30
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,mass,6,17,17,60
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,mass,0,9,9,60
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,mass,0,11,11,60
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,mass,1,8,8,60
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,mass,2,8,8,60
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,mass,3,8,8,60
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,mass,4,8,8,60
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,mass,5,8,8,60
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,confession,6,15,15,60
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,adoration,1,13,13,420
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,adoration,2,13,13,420
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,adoration,3,13,13,420
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,adoration,4,13,13,420
+"St. Brendan, North Olmsted",41.4269335,-81.8826185,FALSE,adoration,5,13,13,420
+"St. Bridget of Kildare, Parma",41.4085059,-81.7596486,FALSE,mass,6,16,16,60
+"St. Bridget of Kildare, Parma",41.4085059,-81.7596486,FALSE,mass,6,17,17,60
+"St. Bridget of Kildare, Parma",41.4085059,-81.7596486,FALSE,mass,0,8,8,60
+"St. Bridget of Kildare, Parma",41.4085059,-81.7596486,FALSE,mass,0,10,10,60
+"St. Bridget of Kildare, Parma",41.4085059,-81.7596486,FALSE,mass,0,12,12,60
+"St. Bridget of Kildare, Parma",41.4085059,-81.7596486,FALSE,mass,1,8,8,60
+"St. Bridget of Kildare, Parma",41.4085059,-81.7596486,FALSE,mass,2,8,8,60
+"St. Bridget of Kildare, Parma",41.4085059,-81.7596486,FALSE,mass,3,8,8,60
+"St. Bridget of Kildare, Parma",41.4085059,-81.7596486,FALSE,mass,4,8,8,60
+"St. Bridget of Kildare, Parma",41.4085059,-81.7596486,FALSE,mass,5,8,8,60
+"St. Bridget of Kildare, Parma",41.4085059,-81.7596486,FALSE,confession,6,15,15,30
+"St. Casimir, Cleveland",41.5843179,-81.5531846,FALSE,mass,0,11,11,60
+"St. Casimir, Euclid",41.5843179,-81.5531846,FALSE,mass,6,17,17,60
+"St. Casimir, Euclid",41.5843179,-81.5531846,FALSE,mass,0,8,8,60
+"St. Casimir, Euclid",41.5843179,-81.5531846,FALSE,mass,0,11,11,60
+"St. Casimir, Euclid",41.5843179,-81.5531846,FALSE,mass,1,7,7,60
+"St. Casimir, Euclid",41.5843179,-81.5531846,FALSE,mass,2,7,7,60
+"St. Casimir, Euclid",41.5843179,-81.5531846,FALSE,mass,3,7,7,60
+"St. Casimir, Euclid",41.5843179,-81.5531846,FALSE,mass,4,7,7,60
+"St. Casimir, Euclid",41.5843179,-81.5531846,FALSE,mass,5,7,7,60
+"St. Casimir, Euclid",41.5843179,-81.5531846,FALSE,confession,6,16,16,30
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,6,16,16,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,0,8,8,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,0,10,10,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,0,12,12,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,0,17,17,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,1,7,7,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,1,19,19,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,2,7,7,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,2,8,8,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,2,19,19,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,3,7,7,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,3,19,19,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,4,7,7,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,4,8,8,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,4,19,19,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,5,7,7,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,mass,5,19,19,60
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,confession,6,15,15,45
+"St. Charles Borromeo, Parma",41.4027927,-81.7338262,FALSE,confession,6,17,17,30
+"St. Christopher, Rocky River",41.4773769,-81.8443926,FALSE,mass,6,17,17,60
+"St. Christopher, Rocky River",41.4773769,-81.8443926,FALSE,mass,0,8,8,60
+"St. Christopher, Rocky River",41.4773769,-81.8443926,FALSE,mass,0,10,10,60
+"St. Christopher, Rocky River",41.4773769,-81.8443926,FALSE,mass,0,11,11,60
+"St. Christopher, Rocky River",41.4773769,-81.8443926,FALSE,mass,1,11,11,60
+"St. Christopher, Rocky River",41.4773769,-81.8443926,FALSE,mass,2,11,11,60
+"St. Christopher, Rocky River",41.4773769,-81.8443926,FALSE,mass,3,11,11,60
+"St. Christopher, Rocky River",41.4773769,-81.8443926,FALSE,mass,4,11,11,60
+"St. Christopher, Rocky River",41.4773769,-81.8443926,FALSE,mass,5,11,11,60
+"St. Christopher, Rocky River",41.4773769,-81.8443926,FALSE,confession,6,16,16,30
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,mass,6,16,16,60
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,mass,0,8,8,60
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,mass,0,10,10,60
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,mass,0,12,12,60
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,mass,1,8,8,60
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,mass,2,8,8,60
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,mass,3,8,8,60
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,mass,4,8,8,60
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,mass,5,8,8,60
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,confession,6,15,15,30
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,adoration,6,9,9,180
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,adoration,1,9,9,420
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,adoration,2,9,9,420
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,adoration,3,9,9,420
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,adoration,4,9,9,420
+"St. Clare, Lyndhurst",41.5207838,-81.4750047,FALSE,adoration,5,9,9,420
+"St. Clarence, North Olmsted",41.4017186,-81.9540492,FALSE,mass,6,16,16,60
+"St. Clarence, North Olmsted",41.4017186,-81.9540492,FALSE,mass,0,8,8,60
+"St. Clarence, North Olmsted",41.4017186,-81.9540492,FALSE,mass,0,10,10,60
+"St. Clarence, North Olmsted",41.4017186,-81.9540492,FALSE,mass,0,12,12,60
+"St. Clarence, North Olmsted",41.4017186,-81.9540492,FALSE,mass,1,8,8,60
+"St. Clarence, North Olmsted",41.4017186,-81.9540492,FALSE,mass,2,8,8,60
+"St. Clarence, North Olmsted",41.4017186,-81.9540492,FALSE,mass,3,8,8,60
+"St. Clarence, North Olmsted",41.4017186,-81.9540492,FALSE,mass,4,8,8,60
+"St. Clarence, North Olmsted",41.4017186,-81.9540492,FALSE,mass,5,8,8,60
+"St. Clarence, North Olmsted",41.4017186,-81.9540492,FALSE,confession,6,16,16,30
+"St. Clarence, North Olmsted",41.4017186,-81.9540492,FALSE,adoration,4,9,9,660
+"St. Clement, Lakewood",41.4767504,-81.795529,FALSE,mass,6,8,8,60
+"St. Clement, Lakewood",41.4767504,-81.795529,FALSE,mass,6,16,16,60
+"St. Clement, Lakewood",41.4767504,-81.795529,FALSE,mass,0,9,9,60
+"St. Clement, Lakewood",41.4767504,-81.795529,FALSE,mass,0,11,11,60
+"St. Clement, Lakewood",41.4767504,-81.795529,FALSE,mass,1,17,17,60
+"St. Clement, Lakewood",41.4767504,-81.795529,FALSE,mass,2,8,8,60
+"St. Clement, Lakewood",41.4767504,-81.795529,FALSE,mass,3,17,17,60
+"St. Clement, Lakewood",41.4767504,-81.795529,FALSE,mass,4,8,8,60
+"St. Clement, Lakewood",41.4767504,-81.795529,FALSE,mass,5,17,17,60
+"St. Colette, Brunswick",41.266793,-81.78616,FALSE,mass,6,16,16,60
+"St. Colette, Brunswick",41.266793,-81.78616,FALSE,mass,0,8,8,60
+"St. Colette, Brunswick",41.266793,-81.78616,FALSE,mass,0,10,10,60
+"St. Colette, Brunswick",41.266793,-81.78616,FALSE,mass,0,11,11,60
+"St. Colette, Brunswick",41.266793,-81.78616,FALSE,mass,3,11,11,60
+"St. Colette, Brunswick",41.266793,-81.78616,FALSE,mass,5,11,11,60
+"St. Colette, Brunswick",41.266793,-81.78616,FALSE,confession,6,15,15,30
+"St. Colman, Cleveland",41.4761201,-81.7297312,FALSE,mass,6,17,17,60
+"St. Colman, Cleveland",41.4761201,-81.7297312,FALSE,mass,0,9,9,60
+"St. Colman, Cleveland",41.4761201,-81.7297312,FALSE,mass,0,11,11,60
+"St. Colman, Cleveland",41.4761201,-81.7297312,FALSE,mass,1,8,8,60
+"St. Colman, Cleveland",41.4761201,-81.7297312,FALSE,mass,2,8,8,60
+"St. Colman, Cleveland",41.4761201,-81.7297312,FALSE,mass,4,8,8,60
+"St. Colman, Cleveland",41.4761201,-81.7297312,FALSE,mass,5,8,8,60
+"St. Colman, Cleveland",41.4761201,-81.7297312,FALSE,confession,6,16,16,30
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,mass,6,8,8,60
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,mass,6,16,16,60
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,mass,0,8,8,60
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,mass,0,10,10,60
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,mass,0,12,12,60
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,mass,0,17,17,60
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,mass,1,8,8,60
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,mass,2,8,8,60
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,mass,3,8,8,60
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,mass,4,8,8,60
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,mass,5,8,8,60
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,confession,6,14,14,60
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,adoration,6,9,9,720
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,adoration,0,9,9,720
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,adoration,1,9,9,720
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,adoration,2,9,9,720
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,adoration,3,9,9,720
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,adoration,4,9,9,720
+"St. Columbkille, Parma",41.3823904,-81.6861153,FALSE,adoration,5,9,9,720
+"St. Cyprian, Perry",41.7784233,-81.1355097,FALSE,mass,6,17,17,60
+"St. Cyprian, Perry",41.7784233,-81.1355097,FALSE,mass,0,9,9,60
+"St. Cyprian, Perry",41.7784233,-81.1355097,FALSE,mass,0,11,11,60
+"St. Cyprian, Perry",41.7784233,-81.1355097,FALSE,mass,1,8,8,60
+"St. Cyprian, Perry",41.7784233,-81.1355097,FALSE,mass,2,8,8,60
+"St. Cyprian, Perry",41.7784233,-81.1355097,FALSE,mass,3,8,8,60
+"St. Cyprian, Perry",41.7784233,-81.1355097,FALSE,mass,4,8,8,60
+"St. Cyprian, Perry",41.7784233,-81.1355097,FALSE,mass,5,7,7,60
+"St. Cyprian, Perry",41.7784233,-81.1355097,FALSE,confession,6,16,16,45
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,6,6,6,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,6,17,17,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,0,9,9,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,0,11,11,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,1,6,6,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,1,8,8,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,2,6,6,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,2,8,8,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,3,6,6,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,3,8,8,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,4,6,6,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,5,6,6,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,mass,5,8,8,60
+"St. Dominic, Shaker Heights",41.4660853,-81.5454599,FALSE,confession,6,16,16,30
+"St. Edward, Parkman",41.3725109,-81.0654717,FALSE,mass,6,17,17,60
+"St. Edward, Parkman",41.3725109,-81.0654717,FALSE,mass,0,8,8,60
+"St. Edward, Parkman",41.3725109,-81.0654717,FALSE,mass,1,18,18,60
+"St. Edward, Parkman",41.3725109,-81.0654717,FALSE,mass,2,8,8,60
+"St. Edward, Parkman",41.3725109,-81.0654717,FALSE,mass,3,8,8,60
+"St. Edward, Parkman",41.3725109,-81.0654717,FALSE,mass,4,8,8,60
+"St. Edward, Parkman",41.3725109,-81.0654717,FALSE,mass,5,8,8,60
+"St. Edward, Parkman",41.3725109,-81.0654717,FALSE,confession,6,16,16,30
+"St. Edward, Parkman",41.3725109,-81.0654717,FALSE,adoration,4,10,10,480
+"St. Emeric, Cleveland",41.4851003,-81.6233815,FALSE,mass,6,17,17,60
+"St. Emeric, Cleveland",41.4851003,-81.6233815,FALSE,mass,0,11,11,60
+"St. Emeric, Cleveland",41.4851003,-81.6233815,FALSE,mass,1,9,9,60
+"St. Emeric, Cleveland",41.4851003,-81.6233815,FALSE,mass,2,9,9,60
+"St. Emeric, Cleveland",41.4851003,-81.6233815,FALSE,mass,3,9,9,60
+"St. Emeric, Cleveland",41.4851003,-81.6233815,FALSE,mass,4,9,9,60
+"St. Emeric, Cleveland",41.4851003,-81.6233815,FALSE,mass,5,9,9,60
+"St. Elizabeth Ann Seton, Columbia Station",41.3725109,-81.0654717,FALSE,mass,6,16,16,60
+"St. Elizabeth Ann Seton, Columbia Station",41.3725109,-81.0654717,FALSE,mass,0,9,9,60
+"St. Elizabeth Ann Seton, Columbia Station",41.3725109,-81.0654717,FALSE,mass,0,11,11,60
+"St. Elizabeth Ann Seton, Columbia Station",41.3725109,-81.0654717,FALSE,mass,2,19,19,60
+"St. Elizabeth Ann Seton, Columbia Station",41.3725109,-81.0654717,FALSE,mass,3,9,9,60
+"St. Elizabeth Ann Seton, Columbia Station",41.3725109,-81.0654717,FALSE,mass,4,9,9,60
+"St. Elizabeth Ann Seton, Columbia Station",41.3725109,-81.0654717,FALSE,mass,5,9,9,60
+"St. Elizabeth Ann Seton, Columbia Station",41.3725109,-81.0654717,FALSE,confession,6,15,15,30
+"St. Elizabeth of Hungry, Cleveland",41.3725109,-81.0654717,FALSE,mass,6,9,9,60
+"St. Elizabeth of Hungry, Cleveland",41.3725109,-81.0654717,FALSE,mass,0,9,9,60
+"St. Elizabeth of Hungry, Cleveland",41.3725109,-81.0654717,FALSE,confession,0,9,9,15
+"St. Eugene, Cuyahoga Falls",41.1409069,-81.4581762,FALSE,mass,6,17,17,60
+"St. Eugene, Cuyahoga Falls",41.1409069,-81.4581762,FALSE,mass,0,9,9,60
+"St. Eugene, Cuyahoga Falls",41.1409069,-81.4581762,FALSE,mass,0,11,11,60
+"St. Eugene, Cuyahoga Falls",41.1409069,-81.4581762,FALSE,mass,1,11,11,60
+"St. Eugene, Cuyahoga Falls",41.1409069,-81.4581762,FALSE,mass,2,11,11,60
+"St. Eugene, Cuyahoga Falls",41.1409069,-81.4581762,FALSE,mass,3,11,11,60
+"St. Eugene, Cuyahoga Falls",41.1409069,-81.4581762,FALSE,mass,4,11,11,60
+"St. Eugene, Cuyahoga Falls",41.1409069,-81.4581762,FALSE,confession,6,16,16,30
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,mass,6,8,8,60
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,mass,6,17,17,60
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,mass,6,18,18,60
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,mass,0,7,7,60
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,mass,0,9,9,60
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,mass,0,11,11,60
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,mass,1,8,8,60
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,mass,2,8,8,60
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,mass,3,8,8,60
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,mass,4,8,8,60
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,mass,4,18,18,60
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,mass,5,8,8,60
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,confession,6,9,9,45
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,confession,4,17,17,45
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,adoration,1,19,19,180
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,adoration,2,7,7,675
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,adoration,2,19,19,180
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,adoration,3,7,7,675
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,adoration,3,19,19,180
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,adoration,4,7,7,675
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,adoration,4,19,19,180
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,adoration,5,7,7,675
+"St. Francis de Sales, Akron",40.9933848,-81.5573016,FALSE,adoration,5,19,19,180
+"St. Francis de Sales, Parma",41.4040089,-81.7098441,FALSE,mass,6,16,16,60
+"St. Francis de Sales, Parma",41.4040089,-81.7098441,FALSE,mass,0,8,8,60
+"St. Francis de Sales, Parma",41.4040089,-81.7098441,FALSE,mass,0,11,11,60
+"St. Francis de Sales, Parma",41.4040089,-81.7098441,FALSE,mass,1,8,8,60
+"St. Francis de Sales, Parma",41.4040089,-81.7098441,FALSE,mass,2,8,8,60
+"St. Francis de Sales, Parma",41.4040089,-81.7098441,FALSE,mass,3,8,8,60
+"St. Francis de Sales, Parma",41.4040089,-81.7098441,FALSE,mass,4,8,8,60
+"St. Francis de Sales, Parma",41.4040089,-81.7098441,FALSE,mass,5,8,8,60
+"St. Francis de Sales, Parma",41.4040089,-81.7098441,FALSE,confession,6,15,15,30
+"St. Francis Xavier, Medina",41.5194371,-81.4302675,FALSE,mass,6,17,17,60
+"St. Francis Xavier, Medina",41.5194371,-81.4302675,FALSE,mass,0,8,8,60
+"St. Francis Xavier, Medina",41.5194371,-81.4302675,FALSE,mass,0,10,10,60
+"St. Francis Xavier, Medina",41.5194371,-81.4302675,FALSE,mass,0,12,12,60
+"St. Francis Xavier, Medina",41.5194371,-81.4302675,FALSE,mass,0,17,17,60
+"St. Francis Xavier, Medina",41.5194371,-81.4302675,FALSE,mass,1,7,7,60
+"St. Francis Xavier, Medina",41.5194371,-81.4302675,FALSE,mass,2,7,7,60
+"St. Francis Xavier, Medina",41.5194371,-81.4302675,FALSE,mass,3,7,7,60
+"St. Francis Xavier, Medina",41.5194371,-81.4302675,FALSE,mass,4,7,7,60
+"St. Francis Xavier, Medina",41.5194371,-81.4302675,FALSE,mass,5,7,7,60
+"St. Francis Xavier, Medina",41.5194371,-81.4302675,FALSE,confession,6,15,15,60
+"St. Francis Xavier Cabrini, Lorain",41.5194371,-81.4302675,FALSE,mass,6,16,16,60
+"St. Francis Xavier Cabrini, Lorain",41.5194371,-81.4302675,FALSE,mass,0,9,9,60
+"St. Francis Xavier Cabrini, Lorain",41.5194371,-81.4302675,FALSE,mass,0,11,11,60
+"St. Francis Xavier Cabrini, Lorain",41.5194371,-81.4302675,FALSE,mass,1,9,9,60
+"St. Francis Xavier Cabrini, Lorain",41.5194371,-81.4302675,FALSE,mass,2,9,9,60
+"St. Francis Xavier Cabrini, Lorain",41.5194371,-81.4302675,FALSE,mass,3,9,9,60
+"St. Francis Xavier Cabrini, Lorain",41.5194371,-81.4302675,FALSE,mass,4,9,9,60
+"St. Francis Xavier Cabrini, Lorain",41.5194371,-81.4302675,FALSE,mass,5,9,9,60
+"St. Francis Xavier Cabrini, Lorain",41.5194371,-81.4302675,FALSE,confession,6,15,15,30
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,6,9,9,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,6,16,16,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,0,8,8,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,0,10,10,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,0,12,12,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,0,18,18,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,1,6,6,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,1,9,9,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,2,6,6,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,2,9,9,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,3,6,6,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,3,9,9,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,4,6,6,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,4,9,9,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,5,6,6,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,mass,5,9,9,60
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,confession,6,15,15,45
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,confession,1,19,19,30
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,confession,2,11,11,30
+"St. Francis of Assissi, Gates Mills",41.5194371,-81.4302675,FALSE,adoration,5,12,12,480
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,6,8,8,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,6,17,17,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,0,7,7,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,0,9,9,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,0,11,11,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,0,17,17,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,1,7,7,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,1,11,11,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,2,7,7,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,2,19,19,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,3,7,7,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,4,7,7,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,4,19,19,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,5,7,7,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,mass,5,11,11,60
+"St. Gabriel, Concord",41.6775201,-81.2836963,FALSE,confession,6,15,15,45
+"St. Helen, Newbury",41.4665829,-81.2068519,FALSE,mass,6,8,8,60
+"St. Helen, Newbury",41.4665829,-81.2068519,FALSE,mass,6,17,17,60
+"St. Helen, Newbury",41.4665829,-81.2068519,FALSE,mass,0,8,8,60
+"St. Helen, Newbury",41.4665829,-81.2068519,FALSE,mass,0,11,11,60
+"St. Helen, Newbury",41.4665829,-81.2068519,FALSE,mass,0,17,17,60
+"St. Helen, Newbury",41.4665829,-81.2068519,FALSE,mass,1,8,8,60
+"St. Helen, Newbury",41.4665829,-81.2068519,FALSE,mass,2,8,8,60
+"St. Helen, Newbury",41.4665829,-81.2068519,FALSE,mass,3,8,8,60
+"St. Helen, Newbury",41.4665829,-81.2068519,FALSE,mass,4,8,8,60
+"St. Helen, Newbury",41.4665829,-81.2068519,FALSE,mass,5,8,8,60
+"St. Helen, Newbury",41.4665829,-81.2068519,FALSE,confession,6,15,15,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,6,16,16,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,0,7,7,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,0,9,9,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,0,11,11,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,0,17,17,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,1,7,7,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,1,9,9,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,2,7,7,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,2,9,9,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,3,7,7,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,4,7,7,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,5,7,7,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,mass,5,9,9,60
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,confession,6,15,15,45
+"St. Hilary, Fairlawn",41.1242135,-81.6029054,FALSE,adoration,3,7,7,690
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,mass,6,17,17,60
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,mass,0,9,9,60
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,mass,0,11,11,60
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,mass,0,17,17,60
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,mass,1,9,9,60
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,mass,1,17,17,60
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,mass,2,9,9,60
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,mass,3,9,9,60
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,mass,4,9,9,60
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,mass,5,9,9,60
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,confession,6,15,15,60
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,confession,0,10,10,45
+"St. Ignatius of Antioch, Cleveland",41.4658476,-81.7561896,FALSE,confession,1,16,16,35
+"St. James, Lakewood",41.4857168,-81.8175822,FALSE,mass,6,16,16,60
+"St. James, Lakewood",41.4857168,-81.8175822,FALSE,mass,0,10,10,60
+"St. James, Lakewood",41.4857168,-81.8175822,FALSE,mass,1,8,8,60
+"St. James, Lakewood",41.4857168,-81.8175822,FALSE,mass,3,8,8,60
+"St. James, Lakewood",41.4857168,-81.8175822,FALSE,mass,5,8,8,60
+"St. Jerome, Cleveland",41.573047,-81.576606,FALSE,mass,6,16,16,60
+"St. Jerome, Cleveland",41.573047,-81.576606,FALSE,mass,0,10,10,60
+"St. Jerome, Cleveland",41.573047,-81.576606,FALSE,mass,3,8,8,60
+"St. Jerome, Cleveland",41.573047,-81.576606,FALSE,mass,5,8,8,60
+"St. Jerome, Cleveland",41.573047,-81.576606,FALSE,confession,6,14,14,45
+"St. Jerome, Cleveland",41.573047,-81.576606,FALSE,adoration,1,9,9,420
+"St. Jerome, Cleveland",41.573047,-81.576606,FALSE,adoration,2,9,9,420
+"St. Jerome, Cleveland",41.573047,-81.576606,FALSE,adoration,3,9,9,420
+"St. Jerome, Cleveland",41.573047,-81.576606,FALSE,adoration,4,9,9,360
+"St. Jerome, Cleveland",41.573047,-81.576606,FALSE,adoration,5,9,9,360
+"St. Joan of Arc, Chagrin Falls",41.4270722,-81.3749249,FALSE,mass,6,16,16,60
+"St. Joan of Arc, Chagrin Falls",41.4270722,-81.3749249,FALSE,mass,0,9,9,60
+"St. Joan of Arc, Chagrin Falls",41.4270722,-81.3749249,FALSE,mass,0,11,11,60
+"St. Joan of Arc, Chagrin Falls",41.4270722,-81.3749249,FALSE,mass,1,8,8,60
+"St. Joan of Arc, Chagrin Falls",41.4270722,-81.3749249,FALSE,mass,2,9,9,60
+"St. Joan of Arc, Chagrin Falls",41.4270722,-81.3749249,FALSE,mass,4,8,8,60
+"St. Joan of Arc, Chagrin Falls",41.4270722,-81.3749249,FALSE,mass,5,8,8,60
+"St. Joan of Arc, Chagrin Falls",41.4270722,-81.3749249,FALSE,confession,6,15,15,45
+"St. John Cantius, Cleveland",41.4804165,-81.6862729,FALSE,mass,6,16,16,60
+"St. John Cantius, Cleveland",41.4804165,-81.6862729,FALSE,mass,0,9,9,60
+"St. John Cantius, Cleveland",41.4804165,-81.6862729,FALSE,mass,0,11,11,60
+"St. John Cantius, Cleveland",41.4804165,-81.6862729,FALSE,mass,1,8,8,60
+"St. John Cantius, Cleveland",41.4804165,-81.6862729,FALSE,mass,2,8,8,60
+"St. John Cantius, Cleveland",41.4804165,-81.6862729,FALSE,mass,3,8,8,60
+"St. John Cantius, Cleveland",41.4804165,-81.6862729,FALSE,mass,4,8,8,60
+"St. John Cantius, Cleveland",41.4804165,-81.6862729,FALSE,mass,5,8,8,60
+"St. John Cantius, Cleveland",41.4804165,-81.6862729,FALSE,confession,6,15,15,30
+"St. John Nepomucene, Cleveland",41.3868894,-81.7720796,FALSE,mass,6,16,16,60
+"St. John Nepomucene, Cleveland",41.3868894,-81.7720796,FALSE,mass,0,9,9,60
+"St. John Nepomucene, Cleveland",41.3868894,-81.7720796,FALSE,mass,0,11,11,60
+"St. John Nepomucene, Cleveland",41.3868894,-81.7720796,FALSE,mass,2,8,8,60
+"St. John Nepomucene, Cleveland",41.3868894,-81.7720796,FALSE,mass,4,8,8,60
+"St. John Nepomucene, Cleveland",41.3868894,-81.7720796,FALSE,mass,5,8,8,60
+"St. John Nepomucene, Cleveland",41.3868894,-81.7720796,FALSE,confession,6,15,15,30
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,mass,6,16,16,60
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,mass,0,8,8,60
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,mass,0,11,11,60
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,mass,1,7,7,60
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,mass,2,7,7,60
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,mass,3,7,7,60
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,mass,4,19,19,60
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,mass,5,7,7,60
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,confession,6,15,15,45
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,confession,4,18,18,30
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,adoration,6,6,6,960
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,adoration,0,6,6,960
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,adoration,1,6,6,960
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,adoration,2,6,6,960
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,adoration,3,6,6,960
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,adoration,4,6,6,960
+"St. John Bosco, Parma Heights",41.4270722,-81.3749249,FALSE,adoration,5,6,6,960
+"St. John of the Cross, Euclid",41.5836111,-81.5002778,FALSE,mass,6,16,16,60
+"St. John of the Cross, Euclid",41.5836111,-81.5002778,FALSE,mass,0,7,7,60
+"St. John of the Cross, Euclid",41.5836111,-81.5002778,FALSE,mass,0,10,10,60
+"St. John of the Cross, Euclid",41.5836111,-81.5002778,FALSE,mass,1,8,8,60
+"St. John of the Cross, Euclid",41.5836111,-81.5002778,FALSE,mass,2,18,18,60
+"St. John of the Cross, Euclid",41.5836111,-81.5002778,FALSE,mass,3,8,8,60
+"St. John of the Cross, Euclid",41.5836111,-81.5002778,FALSE,mass,4,18,18,60
+"St. John of the Cross, Euclid",41.5836111,-81.5002778,FALSE,confession,6,15,15,30
+"St. John the Baptist, Akron",41.2986221,-81.8336826,FALSE,mass,0,10,10,60
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,mass,6,16,16,60
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,mass,0,8,8,60
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,mass,0,10,10,60
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,mass,0,13,13,60
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,mass,0,17,17,60
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,mass,1,9,9,60
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,mass,2,9,9,60
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,mass,3,18,18,60
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,mass,4,9,9,60
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,mass,5,9,9,60
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,confession,6,9,9,60
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,confession,0,17,17,45
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,confession,5,17,17,45
+"St. John Neumann, Strongsville",41.3868894,-81.7720796,FALSE,adoration,3,9,9,495
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,6,8,8,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,6,16,16,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,0,7,7,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,0,9,9,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,0,10,10,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,0,12,12,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,1,8,8,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,1,11,11,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,2,8,8,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,3,8,8,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,3,11,11,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,4,8,8,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,5,8,8,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,mass,5,11,11,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,confession,6,14,14,60
+"St. John Vianney, Mentor",41.6872368,-81.3700027,FALSE,confession,6,18,18,30
+"St. Joseph, Amherst",41.4046332,-82.2185184,FALSE,mass,6,16,16,60
+"St. Joseph, Amherst",41.4046332,-82.2185184,FALSE,mass,0,8,8,60
+"St. Joseph, Amherst",41.4046332,-82.2185184,FALSE,mass,0,11,11,60
+"St. Joseph, Amherst",41.4046332,-82.2185184,FALSE,mass,0,17,17,60
+"St. Joseph, Amherst",41.4046332,-82.2185184,FALSE,mass,5,9,9,60
+"St. Joseph, Amherst",41.4046332,-82.2185184,FALSE,confession,6,11,11,60
+"St. Joseph, Amherst",41.4046332,-82.2185184,FALSE,confession,4,19,19,60
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,mass,6,16,16,60
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,mass,0,8,8,60
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,mass,0,11,11,60
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,mass,0,17,17,60
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,mass,1,8,8,60
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,mass,2,8,8,60
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,mass,3,8,8,60
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,mass,4,8,8,60
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,mass,5,8,8,60
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,confession,6,15,15,60
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,adoration,1,19,19,120
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,adoration,2,19,19,120
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,adoration,3,19,19,120
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,adoration,4,19,19,120
+"St. Joseph, Avon Lake",41.5099431,-82.0268039,FALSE,adoration,5,19,19,120
+"St. Joseph, Strongsville",41.1296543,-81.4853846,FALSE,mass,6,16,16,60
+"St. Joseph, Strongsville",41.1296543,-81.4853846,FALSE,mass,0,8,8,60
+"St. Joseph, Strongsville",41.1296543,-81.4853846,FALSE,mass,0,10,10,60
+"St. Joseph, Strongsville",41.1296543,-81.4853846,FALSE,mass,0,12,12,60
+"St. Joseph, Strongsville",41.1296543,-81.4853846,FALSE,mass,1,18,18,60
+"St. Joseph, Strongsville",41.1296543,-81.4853846,FALSE,mass,2,7,7,60
+"St. Joseph, Strongsville",41.1296543,-81.4853846,FALSE,mass,3,7,7,60
+"St. Joseph, Strongsville",41.1296543,-81.4853846,FALSE,mass,4,7,7,60
+"St. Joseph, Strongsville",41.1296543,-81.4853846,FALSE,mass,5,7,7,60
+"St. Joseph, Strongsville",41.1296543,-81.4853846,FALSE,confession,6,15,15,60
+"St. Joseph, Cuyahoga Falls",41.1296543,-81.4853846,FALSE,mass,6,17,17,60
+"St. Joseph, Cuyahoga Falls",41.1296543,-81.4853846,FALSE,mass,0,8,8,60
+"St. Joseph, Cuyahoga Falls",41.1296543,-81.4853846,FALSE,mass,0,10,10,60
+"St. Joseph, Cuyahoga Falls",41.1296543,-81.4853846,FALSE,mass,0,12,12,60
+"St. Joseph, Cuyahoga Falls",41.1296543,-81.4853846,FALSE,mass,1,8,8,60
+"St. Joseph, Cuyahoga Falls",41.1296543,-81.4853846,FALSE,mass,2,8,8,60
+"St. Joseph, Cuyahoga Falls",41.1296543,-81.4853846,FALSE,mass,3,8,8,60
+"St. Joseph, Cuyahoga Falls",41.1296543,-81.4853846,FALSE,mass,4,8,8,60
+"St. Joseph, Cuyahoga Falls",41.1296543,-81.4853846,FALSE,mass,5,8,8,60
+"St. Joseph, Cuyahoga Falls",41.1296543,-81.4853846,FALSE,confession,6,15,15,60
+"St. Jude, Elryia",41.3827193,-82.085203,FALSE,mass,6,16,16,60
+"St. Jude, Elryia",41.3827193,-82.085203,FALSE,mass,0,9,9,60
+"St. Jude, Elryia",41.3827193,-82.085203,FALSE,mass,0,11,11,60
+"St. Jude, Elryia",41.3827193,-82.085203,FALSE,mass,1,8,8,60
+"St. Jude, Elryia",41.3827193,-82.085203,FALSE,mass,2,8,8,60
+"St. Jude, Elryia",41.3827193,-82.085203,FALSE,mass,3,8,8,60
+"St. Jude, Elryia",41.3827193,-82.085203,FALSE,mass,4,8,8,60
+"St. Jude, Elryia",41.3827193,-82.085203,FALSE,mass,5,8,8,60
+"St. Jude, Elryia",41.3827193,-82.085203,FALSE,confession,2,10,10,60
+"St. Jude, Elryia",41.3827193,-82.085203,FALSE,adoration,6,9,9,360
+"St. Julie Billiart, North Ridgeville",41.4088896,-81.9943634,FALSE,mass,6,17,17,60
+"St. Julie Billiart, North Ridgeville",41.4088896,-81.9943634,FALSE,mass,0,9,9,60
+"St. Julie Billiart, North Ridgeville",41.4088896,-81.9943634,FALSE,mass,0,11,11,60
+"St. Julie Billiart, North Ridgeville",41.4088896,-81.9943634,FALSE,mass,1,8,8,60
+"St. Julie Billiart, North Ridgeville",41.4088896,-81.9943634,FALSE,mass,2,8,8,60
+"St. Julie Billiart, North Ridgeville",41.4088896,-81.9943634,FALSE,mass,3,8,8,60
+"St. Julie Billiart, North Ridgeville",41.4088896,-81.9943634,FALSE,mass,5,8,8,60
+"St. Julie Billiart, North Ridgeville",41.4088896,-81.9943634,FALSE,confession,6,16,16,30
+"St. Justin Martyr, Eastlake",41.6488985,-81.4331893,FALSE,mass,6,17,17,60
+"St. Justin Martyr, Eastlake",41.6488985,-81.4331893,FALSE,mass,0,8,8,60
+"St. Justin Martyr, Eastlake",41.6488985,-81.4331893,FALSE,mass,0,10,10,60
+"St. Justin Martyr, Eastlake",41.6488985,-81.4331893,FALSE,mass,1,8,8,60
+"St. Justin Martyr, Eastlake",41.6488985,-81.4331893,FALSE,mass,2,8,8,60
+"St. Justin Martyr, Eastlake",41.6488985,-81.4331893,FALSE,mass,3,8,8,60
+"St. Justin Martyr, Eastlake",41.6488985,-81.4331893,FALSE,mass,4,8,8,60
+"St. Justin Martyr, Eastlake",41.6488985,-81.4331893,FALSE,mass,5,8,8,60
+"St. Justin Martyr, Eastlake",41.6488985,-81.4331893,FALSE,confession,6,16,16,30
+"St. Ladislas, Westlake",41.4541536,-81.9450209,FALSE,mass,6,17,17,60
+"St. Ladislas, Westlake",41.4541536,-81.9450209,FALSE,mass,0,9,9,60
+"St. Ladislas, Westlake",41.4541536,-81.9450209,FALSE,mass,0,11,11,60
+"St. Ladislas, Westlake",41.4541536,-81.9450209,FALSE,mass,1,8,8,60
+"St. Ladislas, Westlake",41.4541536,-81.9450209,FALSE,mass,2,8,8,60
+"St. Ladislas, Westlake",41.4541536,-81.9450209,FALSE,mass,3,8,8,60
+"St. Ladislas, Westlake",41.4541536,-81.9450209,FALSE,mass,4,8,8,60
+"St. Ladislas, Westlake",41.4541536,-81.9450209,FALSE,mass,5,8,8,60
+"St. Ladislas, Westlake",41.4541536,-81.9450209,FALSE,confession,6,15,15,60
+"St. Leo the Great, Cleveland",41.4222839,-81.6968841,FALSE,mass,6,16,16,60
+"St. Leo the Great, Cleveland",41.4222839,-81.6968841,FALSE,mass,0,8,8,60
+"St. Leo the Great, Cleveland",41.4222839,-81.6968841,FALSE,mass,0,11,11,60
+"St. Leo the Great, Cleveland",41.4222839,-81.6968841,FALSE,mass,1,8,8,60
+"St. Leo the Great, Cleveland",41.4222839,-81.6968841,FALSE,mass,2,8,8,60
+"St. Leo the Great, Cleveland",41.4222839,-81.6968841,FALSE,mass,3,8,8,60
+"St. Leo the Great, Cleveland",41.4222839,-81.6968841,FALSE,mass,5,8,8,60
+"St. Leo the Great, Cleveland",41.4222839,-81.6968841,FALSE,confession,6,15,15,30
+"St. Leo the Great, Cleveland",41.4222839,-81.6968841,FALSE,confession,0,10,10,30
+"St. Lucy Mission, Middlefield",41.4619438,-81.0606134,FALSE,mass,6,18,18,60
+"St. Lucy Mission, Middlefield",41.4619438,-81.0606134,FALSE,mass,0,10,10,60
+"St. Lucy Mission, Middlefield",41.4619438,-81.0606134,FALSE,confession,6,18,18,30
+"St. Lucy Mission, Middlefield",41.4619438,-81.0606134,FALSE,adoration,4,13,13,300
+"St. Luke, Lakewood",41.4905638,-81.7899881,FALSE,mass,6,16,16,60
+"St. Luke, Lakewood",41.4905638,-81.7899881,FALSE,mass,0,9,9,60
+"St. Luke, Lakewood",41.4905638,-81.7899881,FALSE,mass,0,11,11,60
+"St. Luke, Lakewood",41.4905638,-81.7899881,FALSE,mass,0,17,17,60
+"St. Luke, Lakewood",41.4905638,-81.7899881,FALSE,mass,1,8,8,60
+"St. Luke, Lakewood",41.4905638,-81.7899881,FALSE,mass,2,7,7,60
+"St. Luke, Lakewood",41.4905638,-81.7899881,FALSE,mass,3,8,8,60
+"St. Luke, Lakewood",41.4905638,-81.7899881,FALSE,mass,4,7,7,60
+"St. Luke, Lakewood",41.4905638,-81.7899881,FALSE,mass,5,8,8,60
+"St. Luke, Lakewood",41.4905638,-81.7899881,FALSE,confession,6,15,15,60
+"St. Malachi, Cleveland",41.4922891,-81.7074691,FALSE,mass,6,16,16,60
+"St. Malachi, Cleveland",41.4922891,-81.7074691,FALSE,mass,0,10,10,60
+"St. Malachi, Cleveland",41.4922891,-81.7074691,FALSE,mass,2,12,12,60
+"St. Malachi, Cleveland",41.4922891,-81.7074691,FALSE,mass,5,12,12,60
+"St. Malachi, Cleveland",41.4922891,-81.7074691,FALSE,confession,5,12,12,60
+"St. Matthew, Akron",40.804736,-81.9339856,FALSE,mass,6,16,16,60
+"St. Matthew, Akron",40.804736,-81.9339856,FALSE,mass,0,8,8,60
+"St. Matthew, Akron",40.804736,-81.9339856,FALSE,mass,0,10,10,60
+"St. Matthew, Akron",40.804736,-81.9339856,FALSE,mass,1,8,8,60
+"St. Matthew, Akron",40.804736,-81.9339856,FALSE,mass,2,8,8,60
+"St. Matthew, Akron",40.804736,-81.9339856,FALSE,mass,3,8,8,60
+"St. Matthew, Akron",40.804736,-81.9339856,FALSE,mass,5,8,8,60
+"St. Matthew, Akron",40.804736,-81.9339856,FALSE,confession,6,9,9,30
+"St. Mark, Cleveland",41.4922891,-81.7074691,FALSE,mass,6,16,16,60
+"St. Mark, Cleveland",41.4922891,-81.7074691,FALSE,mass,0,8,8,60
+"St. Mark, Cleveland",41.4922891,-81.7074691,FALSE,mass,0,11,11,60
+"St. Mark, Cleveland",41.4922891,-81.7074691,FALSE,mass,1,8,8,60
+"St. Mark, Cleveland",41.4922891,-81.7074691,FALSE,mass,2,8,8,60
+"St. Mark, Cleveland",41.4922891,-81.7074691,FALSE,mass,4,8,8,60
+"St. Mark, Cleveland",41.4922891,-81.7074691,FALSE,mass,5,8,8,60
+"St. Mark, Cleveland",41.4922891,-81.7074691,FALSE,confession,6,15,15,45
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,mass,6,7,7,60
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,mass,6,16,16,60
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,mass,0,9,9,60
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,mass,0,11,11,60
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,mass,1,7,7,60
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,mass,1,18,18,60
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,mass,2,7,7,60
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,mass,2,18,18,60
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,mass,3,7,7,60
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,mass,3,18,18,60
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,mass,4,7,7,60
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,mass,5,7,7,60
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,confession,6,5,5,30
+"St. Martin of Tours, Maple Heights",41.4922891,-81.7074691,FALSE,confession,6,3,3,60
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,mass,6,17,17,60
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,mass,0,8,8,60
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,mass,0,10,10,60
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,mass,1,17,17,60
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,mass,3,8,8,60
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,mass,5,8,8,60
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,confession,6,16,16,45
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,adoration,6,13,13,300
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,adoration,1,9,9,510
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,adoration,2,9,9,450
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,adoration,3,7,7,540
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,adoration,4,9,9,450
+"St. Martin of Tours, Valley City",41.4922891,-81.7074691,FALSE,adoration,5,7,7,540
+"St. Mary, Akron",41.4922891,-81.7074691,FALSE,mass,0,9,9,60
+"St. Mary, Bedford",41.4922891,-81.7074691,FALSE,mass,6,16,16,60
+"St. Mary, Bedford",41.4922891,-81.7074691,FALSE,mass,0,9,9,60
+"St. Mary, Bedford",41.4922891,-81.7074691,FALSE,confession,6,15,15,30
+"St. Mary, Berea",41.4922891,-81.7074691,FALSE,mass,6,16,16,60
+"St. Mary, Berea",41.4922891,-81.7074691,FALSE,mass,0,7,7,60
+"St. Mary, Berea",41.4922891,-81.7074691,FALSE,mass,0,9,9,60
+"St. Mary, Berea",41.4922891,-81.7074691,FALSE,mass,0,11,11,60
+"St. Mary, Berea",41.4922891,-81.7074691,FALSE,mass,1,9,9,60
+"St. Mary, Berea",41.4922891,-81.7074691,FALSE,mass,2,9,9,60
+"St. Mary, Berea",41.4922891,-81.7074691,FALSE,mass,3,9,9,60
+"St. Mary, Berea",41.4922891,-81.7074691,FALSE,mass,4,9,9,60
+"St. Mary, Berea",41.4922891,-81.7074691,FALSE,mass,5,9,9,60
+"St. Mary, Berea",41.4922891,-81.7074691,FALSE,confession,6,15,15,30
+"St. Mary, Chardon",41.4922891,-81.7074691,FALSE,mass,6,16,16,60
+"St. Mary, Chardon",41.4922891,-81.7074691,FALSE,mass,0,8,8,60
+"St. Mary, Chardon",41.4922891,-81.7074691,FALSE,mass,0,10,10,60
+"St. Mary, Chardon",41.4922891,-81.7074691,FALSE,mass,0,12,12,60
+"St. Mary, Chardon",41.4922891,-81.7074691,FALSE,mass,1,7,7,60
+"St. Mary, Chardon",41.4922891,-81.7074691,FALSE,mass,2,7,7,60
+"St. Mary, Chardon",41.4922891,-81.7074691,FALSE,mass,3,12,12,60
+"St. Mary, Chardon",41.4922891,-81.7074691,FALSE,mass,4,7,7,60
+"St. Mary, Chardon",41.4922891,-81.7074691,FALSE,mass,5,1,1,60
+"St. Mary, Chardon",41.4922891,-81.7074691,FALSE,confession,6,15,15,30
+"St. Mary, Chardon",41.4922891,-81.7074691,FALSE,adoration,3,12,12,390
+"St. Mary, Cleveland (Collonwood)",41.4922891,-81.7074691,FALSE,mass,6,7,7,60
+"St. Mary, Cleveland (Collonwood)",41.4922891,-81.7074691,FALSE,mass,6,17,17,60
+"St. Mary, Cleveland (Collonwood)",41.4922891,-81.7074691,FALSE,mass,0,8,8,60
+"St. Mary, Cleveland (Collonwood)",41.4922891,-81.7074691,FALSE,mass,0,10,10,60
+"St. Mary, Cleveland (Collonwood)",41.4922891,-81.7074691,FALSE,mass,0,12,12,60
+"St. Mary, Cleveland (Collonwood)",41.4922891,-81.7074691,FALSE,mass,1,7,7,60
+"St. Mary, Cleveland (Collonwood)",41.4922891,-81.7074691,FALSE,mass,2,7,7,60
+"St. Mary, Cleveland (Collonwood)",41.4922891,-81.7074691,FALSE,mass,3,7,7,60
+"St. Mary, Cleveland (Collonwood)",41.4922891,-81.7074691,FALSE,mass,4,7,7,60
+"St. Mary, Cleveland (Collonwood)",41.4922891,-81.7074691,FALSE,mass,5,7,7,60
+"St. Mary, Cleveland (Collonwood)",41.4922891,-81.7074691,FALSE,confession,6,16,16,45
+"St. Mary, Cleveland (Collonwood)",41.4922891,-81.7074691,FALSE,adoration,4,14,14,240
+"St. Mary, Elyria",41.4922891,-81.7074691,FALSE,mass,6,9,9,60
+"St. Mary, Elyria",41.4922891,-81.7074691,FALSE,mass,6,16,16,60
+"St. Mary, Elyria",41.4922891,-81.7074691,FALSE,mass,0,8,8,60
+"St. Mary, Elyria",41.4922891,-81.7074691,FALSE,mass,0,9,9,60
+"St. Mary, Elyria",41.4922891,-81.7074691,FALSE,mass,0,11,11,60
+"St. Mary, Elyria",41.4922891,-81.7074691,FALSE,mass,1,17,17,60
+"St. Mary, Elyria",41.4922891,-81.7074691,FALSE,mass,2,8,8,60
+"St. Mary, Elyria",41.4922891,-81.7074691,FALSE,mass,3,17,17,60
+"St. Mary, Elyria",41.4922891,-81.7074691,FALSE,mass,4,8,8,60
+"St. Mary, Elyria",41.4922891,-81.7074691,FALSE,mass,5,8,8,60
+"St. Mary, Elyria",41.4922891,-81.7074691,FALSE,confession,6,15,15,45
+"St. Mary, Hudson",41.4922891,-81.7074691,FALSE,mass,6,16,16,60
+"St. Mary, Hudson",41.4922891,-81.7074691,FALSE,mass,0,8,8,60
+"St. Mary, Hudson",41.4922891,-81.7074691,FALSE,mass,0,9,9,60
+"St. Mary, Hudson",41.4922891,-81.7074691,FALSE,mass,0,11,11,60
+"St. Mary, Hudson",41.4922891,-81.7074691,FALSE,mass,0,17,17,60
+"St. Mary, Hudson",41.4922891,-81.7074691,FALSE,mass,1,9,9,60
+"St. Mary, Hudson",41.4922891,-81.7074691,FALSE,mass,2,9,9,60
+"St. Mary, Hudson",41.4922891,-81.7074691,FALSE,mass,3,9,9,60
+"St. Mary, Hudson",41.4922891,-81.7074691,FALSE,mass,4,9,9,60
+"St. Mary, Hudson",41.4922891,-81.7074691,FALSE,mass,5,9,9,60
+"St. Mary, Hudson",41.4922891,-81.7074691,FALSE,confession,1,18,18,60
+"St. Mary, Hudson",41.4922891,-81.7074691,FALSE,adoration,4,11,11,420
+"St. Mary, Lorain",41.4922891,-81.7074691,FALSE,mass,6,16,16,60
+"St. Mary, Lorain",41.4922891,-81.7074691,FALSE,mass,0,10,10,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,6,8,8,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,6,16,16,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,0,8,8,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,0,10,10,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,0,12,12,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,0,18,18,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,1,6,6,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,1,12,12,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,2,6,6,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,2,12,12,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,3,6,6,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,3,12,12,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,4,6,6,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,4,12,12,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,5,6,6,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,mass,5,12,12,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,confession,6,15,15,60
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,confession,0,17,17,30
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,confession,3,13,13,30
+"St. Mary, Painesville",40.804736,-81.9339856,FALSE,confession,4,13,13,30
+"St. Mary Magdalene, Willowick",41.4922891,-81.7074691,FALSE,mass,6,16,16,60
+"St. Mary Magdalene, Willowick",41.4922891,-81.7074691,FALSE,mass,0,8,8,60
+"St. Mary Magdalene, Willowick",41.4922891,-81.7074691,FALSE,mass,0,11,11,60
+"St. Mary Magdalene, Willowick",41.4922891,-81.7074691,FALSE,mass,1,9,9,60
+"St. Mary Magdalene, Willowick",41.4922891,-81.7074691,FALSE,mass,2,9,9,60
+"St. Mary Magdalene, Willowick",41.4922891,-81.7074691,FALSE,mass,3,9,9,60
+"St. Mary Magdalene, Willowick",41.4922891,-81.7074691,FALSE,mass,5,9,9,60
+"St. Mary Magdalene, Willowick",41.4922891,-81.7074691,FALSE,confession,6,15,15,45
+"St. Mary of the Assumption, Mentor",41.4922891,-81.7074691,FALSE,mass,6,16,16,60
+"St. Mary of the Assumption, Mentor",41.4922891,-81.7074691,FALSE,mass,0,8,8,60
+"St. Mary of the Assumption, Mentor",41.4922891,-81.7074691,FALSE,mass,0,10,10,60
+"St. Mary of the Assumption, Mentor",41.4922891,-81.7074691,FALSE,mass,0,12,12,60
+"St. Mary of the Assumption, Mentor",41.4922891,-81.7074691,FALSE,mass,1,8,8,60
+"St. Mary of the Assumption, Mentor",41.4922891,-81.7074691,FALSE,mass,2,8,8,60
+"St. Mary of the Assumption, Mentor",41.4922891,-81.7074691,FALSE,mass,3,8,8,60
+"St. Mary of the Assumption, Mentor",41.4922891,-81.7074691,FALSE,mass,5,8,8,60
+"St. Mary of the Assumption, Mentor",41.4922891,-81.7074691,FALSE,confession,6,15,15,30
+"St. Mary of the Falls, Olmsted Falls",41.4922891,-81.7074691,FALSE,mass,6,17,17,60
+"St. Mary of the Falls, Olmsted Falls",41.4922891,-81.7074691,FALSE,mass,0,8,8,60
+"St. Mary of the Falls, Olmsted Falls",41.4922891,-81.7074691,FALSE,mass,0,11,11,60
+"St. Mary of the Falls, Olmsted Falls",41.4922891,-81.7074691,FALSE,mass,0,17,17,60
+"St. Mary of the Falls, Olmsted Falls",41.4922891,-81.7074691,FALSE,mass,1,9,9,60
+"St. Mary of the Falls, Olmsted Falls",41.4922891,-81.7074691,FALSE,mass,2,9,9,60
+"St. Mary of the Falls, Olmsted Falls",41.4922891,-81.7074691,FALSE,mass,3,7,7,60
+"St. Mary of the Falls, Olmsted Falls",41.4922891,-81.7074691,FALSE,mass,5,7,7,60
+"St. Mary of the Falls, Olmsted Falls",41.4922891,-81.7074691,FALSE,confession,6,15,15,60
+"St. Mary of the Falls, Olmsted Falls",41.4922891,-81.7074691,FALSE,adoration,2,19,19,60
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,mass,6,8,8,60
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,mass,6,16,16,60
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,mass,0,8,8,60
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,mass,0,10,10,60
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,mass,0,12,12,60
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,mass,1,19,19,60
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,mass,2,8,8,60
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,mass,3,8,8,60
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,mass,4,19,19,60
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,mass,5,8,8,60
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,confession,6,14,14,60
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,confession,1,19,19,25
+"St. Mary of the Immaculate Conception, Avon",41.4922891,-81.7074691,FALSE,adoration,4,17,17,120
+"St. Mary of the Immaculate Conception, Wooster",41.4922891,-81.7074691,FALSE,mass,6,17,17,60
+"St. Mary of the Immaculate Conception, Wooster",41.4922891,-81.7074691,FALSE,mass,0,8,8,60
+"St. Mary of the Immaculate Conception, Wooster",41.4922891,-81.7074691,FALSE,mass,0,10,10,60
+"St. Mary of the Immaculate Conception, Wooster",41.4922891,-81.7074691,FALSE,mass,0,17,17,60
+"St. Mary of the Immaculate Conception, Wooster",41.4922891,-81.7074691,FALSE,mass,1,7,7,60
+"St. Mary of the Immaculate Conception, Wooster",41.4922891,-81.7074691,FALSE,mass,2,7,7,60
+"St. Mary of the Immaculate Conception, Wooster",41.4922891,-81.7074691,FALSE,mass,3,9,9,60
+"St. Mary of the Immaculate Conception, Wooster",41.4922891,-81.7074691,FALSE,mass,4,7,7,60
+"St. Mary of the Immaculate Conception, Wooster",41.4922891,-81.7074691,FALSE,mass,5,7,7,60
+"St. Mary of the Immaculate Conception, Wooster",41.4922891,-81.7074691,FALSE,confession,6,15,15,60
+"St. Matthias, Parma",41.3514037,-81.6879496,FALSE,mass,6,16,16,60
+"St. Matthias, Parma",41.3514037,-81.6879496,FALSE,mass,0,10,10,60
+"St. Matthias, Parma",41.3514037,-81.6879496,FALSE,mass,1,8,8,60
+"St. Matthias, Parma",41.3514037,-81.6879496,FALSE,mass,2,8,8,60
+"St. Matthias, Parma",41.3514037,-81.6879496,FALSE,mass,4,8,8,60
+"St. Matthias, Parma",41.3514037,-81.6879496,FALSE,mass,5,8,8,60
+"St. Matthias, Parma",41.3514037,-81.6879496,FALSE,confession,6,15,15,30
+"St. Mel, Cleveland",41.4614558,-81.7954471,FALSE,mass,6,16,16,60
+"St. Mel, Cleveland",41.4614558,-81.7954471,FALSE,mass,0,7,7,60
+"St. Mel, Cleveland",41.4614558,-81.7954471,FALSE,mass,0,10,10,60
+"St. Mel, Cleveland",41.4614558,-81.7954471,FALSE,mass,1,6,6,60
+"St. Mel, Cleveland",41.4614558,-81.7954471,FALSE,mass,2,6,6,60
+"St. Mel, Cleveland",41.4614558,-81.7954471,FALSE,mass,4,6,6,60
+"St. Mel, Cleveland",41.4614558,-81.7954471,FALSE,mass,5,6,6,60
+"St. Mel, Cleveland",41.4614558,-81.7954471,FALSE,confession,6,15,15,75
+"St. Michael, Independence",41.4696575,-81.6974408,FALSE,mass,6,16,16,60
+"St. Michael, Independence",41.4696575,-81.6974408,FALSE,mass,0,8,8,60
+"St. Michael, Independence",41.4696575,-81.6974408,FALSE,mass,0,10,10,60
+"St. Michael, Independence",41.4696575,-81.6974408,FALSE,mass,0,12,12,60
+"St. Michael, Independence",41.4696575,-81.6974408,FALSE,mass,1,8,8,60
+"St. Michael, Independence",41.4696575,-81.6974408,FALSE,mass,2,8,8,60
+"St. Michael, Independence",41.4696575,-81.6974408,FALSE,mass,3,8,8,60
+"St. Michael, Independence",41.4696575,-81.6974408,FALSE,mass,5,8,8,60
+"St. Michael, Independence",41.4696575,-81.6974408,FALSE,confession,6,15,15,30
+"St. Michael the Archangel, Cleveland",41.4614558,-81.7954471,FALSE,mass,6,17,17,60
+"St. Michael the Archangel, Cleveland",41.4614558,-81.7954471,FALSE,mass,6,19,19,60
+"St. Michael the Archangel, Cleveland",41.4614558,-81.7954471,FALSE,mass,0,9,9,60
+"St. Michael the Archangel, Cleveland",41.4614558,-81.7954471,FALSE,mass,0,12,12,60
+"St. Michael the Archangel, Cleveland",41.4614558,-81.7954471,FALSE,mass,3,18,18,60
+"St. Michael the Archangel, Cleveland",41.4614558,-81.7954471,FALSE,mass,4,18,18,60
+"St. Michael the Archangel, Cleveland",41.4614558,-81.7954471,FALSE,confession,6,15,15,60
+"St. Monica, Garfield Heights",41.4022967,-81.588451,FALSE,mass,6,16,16,60
+"St. Monica, Garfield Heights",41.4022967,-81.588451,FALSE,mass,0,9,9,60
+"St. Monica, Garfield Heights",41.4022967,-81.588451,FALSE,mass,0,10,10,60
+"St. Monica, Garfield Heights",41.4022967,-81.588451,FALSE,mass,1,8,8,60
+"St. Monica, Garfield Heights",41.4022967,-81.588451,FALSE,mass,2,8,8,60
+"St. Monica, Garfield Heights",41.4022967,-81.588451,FALSE,mass,3,8,8,60
+"St. Monica, Garfield Heights",41.4022967,-81.588451,FALSE,mass,4,8,8,60
+"St. Monica, Garfield Heights",41.4022967,-81.588451,FALSE,mass,5,8,8,60
+"St. Monica, Garfield Heights",41.4022967,-81.588451,FALSE,confession,6,15,15,45
+"St. Noel, Willoughby",41.5861892,-81.4353604,FALSE,mass,6,17,17,60
+"St. Noel, Willoughby",41.5861892,-81.4353604,FALSE,mass,0,9,9,60
+"St. Noel, Willoughby",41.5861892,-81.4353604,FALSE,mass,0,11,11,60
+"St. Noel, Willoughby",41.5861892,-81.4353604,FALSE,mass,1,8,8,60
+"St. Noel, Willoughby",41.5861892,-81.4353604,FALSE,mass,2,8,8,60
+"St. Noel, Willoughby",41.5861892,-81.4353604,FALSE,mass,3,8,8,60
+"St. Noel, Willoughby",41.5861892,-81.4353604,FALSE,mass,5,8,8,60
+"St. Noel, Willoughby",41.5861892,-81.4353604,FALSE,confession,6,15,15,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,6,9,9,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,6,16,16,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,0,8,8,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,0,10,10,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,0,18,18,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,1,9,9,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,1,11,11,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,2,9,9,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,2,11,11,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,3,9,9,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,3,11,11,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,4,9,9,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,4,11,11,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,5,9,9,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,mass,5,11,11,60
+"St. Paschal Baylon, Highland Heights",41.5381053,-81.485502,FALSE,confession,6,15,15,45
+"St. Patrick, Cleveland (Bridge)",41.4833629,-81.7113037,FALSE,mass,6,16,16,60
+"St. Patrick, Cleveland (Bridge)",41.4833629,-81.7113037,FALSE,mass,0,8,8,60
+"St. Patrick, Cleveland (Bridge)",41.4833629,-81.7113037,FALSE,mass,0,11,11,60
+"St. Patrick, Cleveland (Bridge)",41.4833629,-81.7113037,FALSE,mass,1,17,17,60
+"St. Patrick, Cleveland (Bridge)",41.4833629,-81.7113037,FALSE,mass,2,8,8,60
+"St. Patrick, Cleveland (Bridge)",41.4833629,-81.7113037,FALSE,mass,3,17,17,60
+"St. Patrick, Cleveland (Bridge)",41.4833629,-81.7113037,FALSE,mass,5,8,8,60
+"St. Patrick, Cleveland (Bridge)",41.4833629,-81.7113037,FALSE,confession,6,15,15,30
+"St. Patrick, Cleveland (Rocky River)",41.4768217,-81.8497567,FALSE,mass,6,16,16,60
+"St. Patrick, Cleveland (Rocky River)",41.4768217,-81.8497567,FALSE,mass,0,11,11,60
+"St. Patrick, Cleveland (Rocky River)",41.4768217,-81.8497567,FALSE,mass,2,19,19,60
+"St. Patrick, Cleveland (Rocky River)",41.4768217,-81.8497567,FALSE,mass,3,7,7,60
+"St. Patrick, Cleveland (Rocky River)",41.4768217,-81.8497567,FALSE,mass,5,8,8,60
+"St. Patrick, Cleveland (Rocky River)",41.4768217,-81.8497567,FALSE,confession,6,11,11,60
+"St. Patrick, Thompson",41.6648268,-81.0529109,FALSE,mass,6,16,16,60
+"St. Patrick, Thompson",41.6648268,-81.0529109,FALSE,mass,0,9,9,60
+"St. Patrick, Thompson",41.6648268,-81.0529109,FALSE,mass,2,8,8,60
+"St. Patrick, Thompson",41.6648268,-81.0529109,FALSE,mass,4,8,8,60
+"St. Patrick, Thompson",41.6648268,-81.0529109,FALSE,confession,6,15,15,30
+"St. Patrick, Wellington",41.1750166,-82.2167088,FALSE,mass,6,18,18,60
+"St. Patrick, Wellington",41.1750166,-82.2167088,FALSE,mass,0,8,8,60
+"St. Patrick, Wellington",41.1750166,-82.2167088,FALSE,mass,1,8,8,60
+"St. Patrick, Wellington",41.1750166,-82.2167088,FALSE,mass,3,18,18,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,mass,6,16,16,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,mass,0,8,8,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,mass,0,9,9,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,mass,0,11,11,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,mass,1,8,8,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,mass,2,7,7,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,mass,3,8,8,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,mass,4,7,7,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,mass,5,8,8,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,mass,5,17,17,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,confession,6,15,15,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,confession,5,16,16,60
+"St. Paul, Akron",41.0383724,-81.5108867,FALSE,adoration,2,7,7,450
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,6,7,7,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,6,8,8,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,6,8,8,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,6,17,17,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,0,7,7,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,0,8,8,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,0,10,10,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,0,12,12,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,1,7,7,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,1,8,8,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,2,7,7,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,2,8,8,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,3,7,7,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,3,8,8,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,4,7,7,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,4,8,8,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,5,7,7,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,mass,5,8,8,60
+"St. Paul, Cleveland",41.4424132,-81.7834624,FALSE,confession,6,15,15,60
+"St. Peter, Cleveland",41.5033773,-81.6386127,FALSE,mass,0,11,11,60
+"St. Peter, Cleveland",41.5033773,-81.6386127,FALSE,mass,0,19,19,60
+"St. Peter, Lorain",41.4386741,-82.1845462,FALSE,mass,6,16,16,60
+"St. Peter, Lorain",41.4386741,-82.1845462,FALSE,mass,0,9,9,60
+"St. Peter, Lorain",41.4386741,-82.1845462,FALSE,mass,0,11,11,60
+"St. Peter, Lorain",41.4386741,-82.1845462,FALSE,mass,1,17,17,60
+"St. Peter, Lorain",41.4386741,-82.1845462,FALSE,mass,2,8,8,60
+"St. Peter, Lorain",41.4386741,-82.1845462,FALSE,mass,4,17,17,60
+"St. Peter, Lorain",41.4386741,-82.1845462,FALSE,mass,5,8,8,60
+"St. Peter, Lorain",41.4386741,-82.1845462,FALSE,confession,6,15,15,30
+"St. Peter, Loudonville",40.6366042,-82.2308744,FALSE,mass,6,17,17,60
+"St. Peter, Loudonville",40.6366042,-82.2308744,FALSE,mass,0,9,9,60
+"St. Peter, Loudonville",40.6366042,-82.2308744,FALSE,mass,1,8,8,60
+"St. Peter, Loudonville",40.6366042,-82.2308744,FALSE,mass,2,8,8,60
+"St. Peter, Loudonville",40.6366042,-82.2308744,FALSE,mass,3,8,8,60
+"St. Peter, Loudonville",40.6366042,-82.2308744,FALSE,mass,5,12,12,60
+"St. Peter, Loudonville",40.6366042,-82.2308744,FALSE,confession,6,16,16,30
+"St. Peter, North Ridgeville",41.3904799,-82.0159135,FALSE,mass,6,17,17,60
+"St. Peter, North Ridgeville",41.3904799,-82.0159135,FALSE,mass,0,6,6,60
+"St. Peter, North Ridgeville",41.3904799,-82.0159135,FALSE,mass,0,8,8,60
+"St. Peter, North Ridgeville",41.3904799,-82.0159135,FALSE,mass,0,10,10,60
+"St. Peter, North Ridgeville",41.3904799,-82.0159135,FALSE,mass,0,12,12,60
+"St. Peter, North Ridgeville",41.3904799,-82.0159135,FALSE,mass,1,8,8,60
+"St. Peter, North Ridgeville",41.3904799,-82.0159135,FALSE,mass,2,8,8,60
+"St. Peter, North Ridgeville",41.3904799,-82.0159135,FALSE,mass,3,8,8,60
+"St. Peter, North Ridgeville",41.3904799,-82.0159135,FALSE,mass,4,8,8,60
+"St. Peter, North Ridgeville",41.3904799,-82.0159135,FALSE,mass,5,8,8,60
+"St. Peter, North Ridgeville",41.3904799,-82.0159135,FALSE,confession,6,15,15,60
+"St. Peter, North Ridgeville",41.3904799,-82.0159135,FALSE,confession,5,8,8,45
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,mass,6,16,16,60
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,mass,0,8,8,60
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,mass,0,10,10,60
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,mass,0,12,12,60
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,mass,1,7,7,60
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,mass,1,9,9,60
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,mass,2,7,7,60
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,mass,2,9,9,60
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,mass,3,7,7,60
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,mass,4,9,9,60
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,mass,5,7,7,60
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,mass,5,9,9,60
+"St. Raphael, Bay Village",41.4808538,-81.9203399,FALSE,confession,6,15,15,60
+"St. Richard, North Olmsted",41.4173744,-81.9188922,FALSE,mass,6,16,16,60
+"St. Richard, North Olmsted",41.4173744,-81.9188922,FALSE,mass,0,7,7,60
+"St. Richard, North Olmsted",41.4173744,-81.9188922,FALSE,mass,0,9,9,60
+"St. Richard, North Olmsted",41.4173744,-81.9188922,FALSE,mass,0,11,11,60
+"St. Richard, North Olmsted",41.4173744,-81.9188922,FALSE,mass,1,7,7,60
+"St. Richard, North Olmsted",41.4173744,-81.9188922,FALSE,mass,2,7,7,60
+"St. Richard, North Olmsted",41.4173744,-81.9188922,FALSE,mass,3,7,7,60
+"St. Richard, North Olmsted",41.4173744,-81.9188922,FALSE,mass,4,7,7,60
+"St. Richard, North Olmsted",41.4173744,-81.9188922,FALSE,mass,5,7,7,60
+"St. Richard, North Olmsted",41.4173744,-81.9188922,FALSE,confession,6,15,15,45
+"St. Rita, Solon",41.3843452,-81.4446977,FALSE,mass,6,17,17,60
+"St. Rita, Solon",41.3843452,-81.4446977,FALSE,mass,0,7,7,60
+"St. Rita, Solon",41.3843452,-81.4446977,FALSE,mass,0,8,8,60
+"St. Rita, Solon",41.3843452,-81.4446977,FALSE,mass,0,10,10,60
+"St. Rita, Solon",41.3843452,-81.4446977,FALSE,mass,0,12,12,60
+"St. Rita, Solon",41.3843452,-81.4446977,FALSE,mass,1,8,8,60
+"St. Rita, Solon",41.3843452,-81.4446977,FALSE,mass,2,8,8,60
+"St. Rita, Solon",41.3843452,-81.4446977,FALSE,mass,3,8,8,60
+"St. Rita, Solon",41.3843452,-81.4446977,FALSE,mass,4,8,8,60
+"St. Rita, Solon",41.3843452,-81.4446977,FALSE,mass,5,8,8,60
+"St. Rita, Solon",41.3843452,-81.4446977,FALSE,confession,6,15,15,60
+"St. Rita, Solon",41.3843452,-81.4446977,FALSE,confession,1,15,15,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,6,6,6,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,6,8,8,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,6,16,16,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,0,7,7,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,0,9,9,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,0,12,12,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,1,6,6,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,1,8,8,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,2,6,6,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,2,8,8,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,3,6,6,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,3,8,8,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,4,6,6,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,4,8,8,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,5,6,6,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,mass,5,8,8,60
+"St. Rocco, Cleveland",41.4671118,-81.7071917,FALSE,confession,6,15,15,45
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,mass,6,8,8,60
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,mass,6,16,16,60
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,mass,0,9,9,60
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,mass,0,11,11,60
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,mass,0,13,13,60
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,mass,1,8,8,60
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,mass,2,8,8,60
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,mass,3,8,8,60
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,mass,4,8,8,60
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,mass,5,8,8,60
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,confession,6,9,9,30
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,confession,2,19,19,30
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,confession,5,16,16,60
+"St. Sebastian, Akron",41.0992099,-81.5665717,FALSE,adoration,4,8,8,690
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,6,8,8,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,6,17,17,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,0,8,8,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,0,10,10,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,0,11,11,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,1,7,7,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,1,8,8,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,2,7,7,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,2,8,8,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,3,7,7,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,3,8,8,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,4,7,7,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,4,19,19,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,5,7,7,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,mass,5,8,8,60
+"St. Stanislaus, Cleveland",41.4591277,-81.6446217,FALSE,confession,6,16,16,45
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,mass,6,17,17,60
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,mass,0,8,8,60
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,mass,0,9,9,60
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,mass,0,11,11,60
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,mass,0,17,17,60
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,mass,1,18,18,60
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,mass,2,6,6,60
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,mass,2,18,18,60
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,mass,3,18,18,60
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,mass,4,18,18,60
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,mass,5,18,18,60
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,confession,0,9,9,20
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,confession,3,19,19,30
+"St. Stephen, Cleveland",41.4789124,-81.7241227,FALSE,adoration,3,19,19,60
+"St. Stephen, West Salem",40.9733311,-82.1053785,FALSE,mass,6,16,16,60
+"St. Stephen, West Salem",40.9733311,-82.1053785,FALSE,mass,0,10,10,60
+"St. Stephen, West Salem",40.9733311,-82.1053785,FALSE,mass,3,16,16,60
+"St. Stephen, West Salem",40.9733311,-82.1053785,FALSE,confession,6,15,15,45
+"St. Stephen, West Salem",40.9733311,-82.1053785,FALSE,adoration,3,9,9,375
+"St. Therese, Garfield Heights",41.465998,-82.0764512,FALSE,mass,6,17,17,60
+"St. Therese, Garfield Heights",41.465998,-82.0764512,FALSE,mass,0,10,10,60
+"St. Therese, Garfield Heights",41.465998,-82.0764512,FALSE,mass,1,18,18,60
+"St. Therese, Garfield Heights",41.465998,-82.0764512,FALSE,mass,4,8,8,60
+"St. Theresa of Avila, Sheffield",41.465998,-82.0764512,FALSE,mass,6,16,16,60
+"St. Theresa of Avila, Sheffield",41.465998,-82.0764512,FALSE,mass,0,8,8,60
+"St. Theresa of Avila, Sheffield",41.465998,-82.0764512,FALSE,mass,0,11,11,60
+"St. Theresa of Avila, Sheffield",41.465998,-82.0764512,FALSE,mass,3,8,8,60
+"St. Theresa of Avila, Sheffield",41.465998,-82.0764512,FALSE,mass,5,8,8,60
+"St. Theresa of Avila, Sheffield",41.465998,-82.0764512,FALSE,confession,6,15,15,30
+"St. Theresa of Avila, Sheffield",41.465998,-82.0764512,FALSE,adoration,3,9,9,240
+"St. Thomas, Sheffield Lake",41.4425389,-81.7402218,FALSE,mass,6,9,9,60
+"St. Thomas, Sheffield Lake",41.4425389,-81.7402218,FALSE,mass,6,16,16,60
+"St. Thomas, Sheffield Lake",41.4425389,-81.7402218,FALSE,mass,0,10,10,60
+"St. Thomas, Sheffield Lake",41.4425389,-81.7402218,FALSE,mass,1,9,9,60
+"St. Thomas, Sheffield Lake",41.4425389,-81.7402218,FALSE,mass,2,9,9,60
+"St. Thomas, Sheffield Lake",41.4425389,-81.7402218,FALSE,mass,3,9,9,60
+"St. Thomas, Sheffield Lake",41.4425389,-81.7402218,FALSE,mass,4,9,9,60
+"St. Thomas, Sheffield Lake",41.4425389,-81.7402218,FALSE,mass,5,9,9,60
+"St. Thomas, Sheffield Lake",41.4425389,-81.7402218,FALSE,confession,6,15,15,45
+"St. Thomas More, Brooklyn",41.465998,-82.0764512,FALSE,mass,6,8,8,60
+"St. Thomas More, Brooklyn",41.465998,-82.0764512,FALSE,mass,6,16,16,60
+"St. Thomas More, Brooklyn",41.465998,-82.0764512,FALSE,mass,0,9,9,60
+"St. Thomas More, Brooklyn",41.465998,-82.0764512,FALSE,mass,0,11,11,60
+"St. Thomas More, Brooklyn",41.465998,-82.0764512,FALSE,mass,1,8,8,60
+"St. Thomas More, Brooklyn",41.465998,-82.0764512,FALSE,mass,2,18,18,60
+"St. Thomas More, Brooklyn",41.465998,-82.0764512,FALSE,mass,3,8,8,60
+"St. Thomas More, Brooklyn",41.465998,-82.0764512,FALSE,mass,5,8,8,60
+"St. Thomas More, Brooklyn",41.465998,-82.0764512,FALSE,confession,6,15,15,60
+"St. Victor, Richfield",41.6157225,-81.5026861,FALSE,mass,6,17,17,60
+"St. Victor, Richfield",41.6157225,-81.5026861,FALSE,mass,0,8,8,60
+"St. Victor, Richfield",41.6157225,-81.5026861,FALSE,mass,0,11,11,60
+"St. Victor, Richfield",41.6157225,-81.5026861,FALSE,mass,1,7,7,60
+"St. Victor, Richfield",41.6157225,-81.5026861,FALSE,mass,2,7,7,60
+"St. Victor, Richfield",41.6157225,-81.5026861,FALSE,mass,4,7,7,60
+"St. Victor, Richfield",41.6157225,-81.5026861,FALSE,mass,5,7,7,60
+"St. Victor, Richfield",41.6157225,-81.5026861,FALSE,confession,6,16,16,30
+"St. Vincent de Paul, Akron",41.6157225,-81.5026861,FALSE,mass,6,17,17,60
+"St. Vincent de Paul, Akron",41.6157225,-81.5026861,FALSE,mass,0,8,8,60
+"St. Vincent de Paul, Akron",41.6157225,-81.5026861,FALSE,mass,0,11,11,60
+"St. Vincent de Paul, Akron",41.6157225,-81.5026861,FALSE,mass,1,6,6,60
+"St. Vincent de Paul, Akron",41.6157225,-81.5026861,FALSE,mass,2,6,6,60
+"St. Vincent de Paul, Akron",41.6157225,-81.5026861,FALSE,mass,3,6,6,60
+"St. Vincent de Paul, Akron",41.6157225,-81.5026861,FALSE,mass,4,6,6,60
+"St. Vincent de Paul, Akron",41.6157225,-81.5026861,FALSE,mass,5,6,6,60
+"St. Vincent de Paul, Akron",41.6157225,-81.5026861,FALSE,confession,6,15,15,60
+"St. Vincent de Paul, Cleveland",41.6157225,-81.5026861,FALSE,mass,6,17,17,60
+"St. Vincent de Paul, Cleveland",41.6157225,-81.5026861,FALSE,mass,0,9,9,60
+"St. Vincent de Paul, Cleveland",41.6157225,-81.5026861,FALSE,mass,1,8,8,60
+"St. Vincent de Paul, Cleveland",41.6157225,-81.5026861,FALSE,mass,3,8,8,60
+"St. Vincent de Paul, Cleveland",41.6157225,-81.5026861,FALSE,mass,5,8,8,60
+"St. Vincent de Paul, Cleveland",41.6157225,-81.5026861,FALSE,confession,6,15,15,60
+"St. Vincent de Paul, Cleveland",41.6157225,-81.5026861,FALSE,adoration,6,15,15,60
+"St. Vincent de Paul, Elyria",41.6157225,-81.5026861,FALSE,mass,6,16,16,60
+"St. Vincent de Paul, Elyria",41.6157225,-81.5026861,FALSE,mass,0,8,8,60
+"St. Vincent de Paul, Elyria",41.6157225,-81.5026861,FALSE,mass,0,10,10,60
+"St. Vincent de Paul, Elyria",41.6157225,-81.5026861,FALSE,mass,0,12,12,60
+"St. Vincent de Paul, Elyria",41.6157225,-81.5026861,FALSE,mass,1,7,7,60
+"St. Vincent de Paul, Elyria",41.6157225,-81.5026861,FALSE,mass,2,7,7,60
+"St. Vincent de Paul, Elyria",41.6157225,-81.5026861,FALSE,mass,3,7,7,60
+"St. Vincent de Paul, Elyria",41.6157225,-81.5026861,FALSE,mass,4,7,7,60
+"St. Vincent de Paul, Elyria",41.6157225,-81.5026861,FALSE,mass,5,7,7,60
+"St. Vincent de Paul, Elyria",41.6157225,-81.5026861,FALSE,confession,6,11,11,60
+"St. Vincent de Paul, Elyria",41.6157225,-81.5026861,FALSE,adoration,2,8,8,540
+"St. Vitus, Cleveland",41.6157225,-81.5026861,FALSE,mass,6,16,16,60
+"St. Vitus, Cleveland",41.6157225,-81.5026861,FALSE,mass,0,9,9,60
+"St. Vitus, Cleveland",41.6157225,-81.5026861,FALSE,mass,0,10,10,60
+"St. Vitus, Cleveland",41.6157225,-81.5026861,FALSE,mass,1,17,17,60
+"St. Vitus, Cleveland",41.6157225,-81.5026861,FALSE,mass,2,17,17,60
+"St. Vitus, Cleveland",41.6157225,-81.5026861,FALSE,mass,3,17,17,60
+"St. Vitus, Cleveland",41.6157225,-81.5026861,FALSE,mass,4,17,17,60
+"St. Vitus, Cleveland",41.6157225,-81.5026861,FALSE,mass,5,17,17,60
+"St. Wendelin, Cleveland",41.6157225,-81.5026861,FALSE,mass,6,16,16,60
+"St. Wendelin, Cleveland",41.6157225,-81.5026861,FALSE,mass,0,10,10,60
+"St. Wendelin, Cleveland",41.6157225,-81.5026861,FALSE,mass,1,11,11,60
+"St. Wendelin, Cleveland",41.6157225,-81.5026861,FALSE,mass,5,10,10,60
+"Ss. Cosmas and Damian, Twinsburg",41.4817672,-81.738076,FALSE,mass,6,16,16,60
+"Ss. Cosmas and Damian, Twinsburg",41.4817672,-81.738076,FALSE,mass,0,9,9,60
+"Ss. Cosmas and Damian, Twinsburg",41.4817672,-81.738076,FALSE,mass,0,11,11,60
+"Ss. Cosmas and Damian, Twinsburg",41.4817672,-81.738076,FALSE,mass,1,8,8,60
+"Ss. Cosmas and Damian, Twinsburg",41.4817672,-81.738076,FALSE,mass,2,8,8,60
+"Ss. Cosmas and Damian, Twinsburg",41.4817672,-81.738076,FALSE,mass,3,8,8,60
+"Ss. Cosmas and Damian, Twinsburg",41.4817672,-81.738076,FALSE,mass,4,8,8,60
+"Ss. Cosmas and Damian, Twinsburg",41.4817672,-81.738076,FALSE,mass,5,8,8,60
+"Ss. Cosmas and Damian, Twinsburg",41.4817672,-81.738076,FALSE,confession,6,15,15,30
+"Ss. Peter and Paul, Doylestown",41.4817672,-81.738076,FALSE,mass,6,16,16,60
+"Ss. Peter and Paul, Doylestown",41.4817672,-81.738076,FALSE,mass,0,8,8,60
+"Ss. Peter and Paul, Doylestown",41.4817672,-81.738076,FALSE,mass,0,11,11,60
+"Ss. Peter and Paul, Doylestown",41.4817672,-81.738076,FALSE,mass,1,9,9,60
+"Ss. Peter and Paul, Doylestown",41.4817672,-81.738076,FALSE,mass,2,9,9,60
+"Ss. Peter and Paul, Doylestown",41.4817672,-81.738076,FALSE,mass,3,9,9,60
+"Ss. Peter and Paul, Doylestown",41.4817672,-81.738076,FALSE,mass,4,9,9,60
+"Ss. Peter and Paul, Doylestown",41.4817672,-81.738076,FALSE,mass,5,9,9,60
+"Ss. Peter and Paul, Doylestown",41.4817672,-81.738076,FALSE,confession,6,15,15,30
+"Ss. Peter and Paul, Doylestown",41.4817672,-81.738076,FALSE,adoration,4,8,8,450
+"Ss. Peter and Paul, Garfield Heights",41.4817672,-81.738076,FALSE,mass,6,16,16,60
+"Ss. Peter and Paul, Garfield Heights",41.4817672,-81.738076,FALSE,mass,0,8,8,60
+"Ss. Peter and Paul, Garfield Heights",41.4817672,-81.738076,FALSE,mass,3,8,8,60
+"Ss. Peter and Paul, Garfield Heights",41.4817672,-81.738076,FALSE,mass,5,8,8,60
+"Ss. Peter and Paul, Garfield Heights",41.4817672,-81.738076,FALSE,confession,6,15,15,60
+"Ss. Robert and William, Euclid",41.4817672,-81.738076,FALSE,mass,6,8,8,60
+"Ss. Robert and William, Euclid",41.4817672,-81.738076,FALSE,mass,6,16,16,60
+"Ss. Robert and William, Euclid",41.4817672,-81.738076,FALSE,mass,0,9,9,60
+"Ss. Robert and William, Euclid",41.4817672,-81.738076,FALSE,mass,0,11,11,60
+"Ss. Robert and William, Euclid",41.4817672,-81.738076,FALSE,mass,0,18,18,60
+"Ss. Robert and William, Euclid",41.4817672,-81.738076,FALSE,mass,1,11,11,60
+"Ss. Robert and William, Euclid",41.4817672,-81.738076,FALSE,mass,2,8,8,60
+"Ss. Robert and William, Euclid",41.4817672,-81.738076,FALSE,mass,3,11,11,60
+"Ss. Robert and William, Euclid",41.4817672,-81.738076,FALSE,mass,4,8,8,60
+"Ss. Robert and William, Euclid",41.4817672,-81.738076,FALSE,mass,5,11,11,60
+"Ss. Robert and William, Euclid",41.4817672,-81.738076,FALSE,confession,6,14,14,30
+"Transfiguration, Lakewood",40.9468254,-81.4694516,FALSE,mass,6,16,16,60
+"Transfiguration, Lakewood",40.9468254,-81.4694516,FALSE,mass,0,9,9,60
+"Transfiguration, Lakewood",40.9468254,-81.4694516,FALSE,mass,1,8,8,60
+"Transfiguration, Lakewood",40.9468254,-81.4694516,FALSE,mass,3,8,8,60
+"Transfiguration, Lakewood",40.9468254,-81.4694516,FALSE,mass,5,8,8,60
+"Transfiguration, Lakewood",40.9468254,-81.4694516,FALSE,confession,6,15,15,30
+"Queen of Heaven, Uniontown",41.0158417,-81.6362693,FALSE,mass,6,8,8,60
+"Queen of Heaven, Uniontown",41.0158417,-81.6362693,FALSE,mass,6,16,16,60
+"Queen of Heaven, Uniontown",41.0158417,-81.6362693,FALSE,mass,0,8,8,60
+"Queen of Heaven, Uniontown",41.0158417,-81.6362693,FALSE,mass,0,11,11,60
+"Queen of Heaven, Uniontown",41.0158417,-81.6362693,FALSE,mass,1,8,8,60
+"Queen of Heaven, Uniontown",41.0158417,-81.6362693,FALSE,mass,2,8,8,60
+"Queen of Heaven, Uniontown",41.0158417,-81.6362693,FALSE,mass,3,8,8,60
+"Queen of Heaven, Uniontown",41.0158417,-81.6362693,FALSE,mass,4,8,8,60
+"Queen of Heaven, Uniontown",41.0158417,-81.6362693,FALSE,mass,5,8,8,60
+"Queen of Heaven, Uniontown",41.0158417,-81.6362693,FALSE,confession,6,15,15,60
+"Queen of Heaven, Uniontown",41.0158417,-81.6362693,FALSE,confession,5,9,9,60
