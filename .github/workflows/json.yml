@@ -5,8 +5,8 @@ jobs:
   run-converter:
     runs-on: ubuntu-latest
     steps:
-      - name: Pulling and Converting
       - uses: actions/checkout@v3
+      - name: Pulling and Converting
         run: |
           python csv-to-json.py
           touch last-edited-at.time
@@ -15,8 +15,10 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "VatII"
           git commit activity-data.json -m "Updated Info"
-     - name: Pushing
-      ...
+          git commit last-edited-at.time -m "Timestamp"
+      - name: Pushing
+        run: |
+          git push
 
       
   
