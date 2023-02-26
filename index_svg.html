@@ -11,15 +11,10 @@
   <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 
-<body onload="demoAlert()">
-  <script>
-    function demoAlert()  {
-      alert("This is merely a rough draft of what this map could be - Not for production!")
-    }
-  </script>
+<body>
   <div class="mapSettings">
-    <h1> Diocese of Cleveland Status Board </h1>
-    <h2> A bird's eye view of what's happening throughout the diocese </h2>
+    <h1> DOC Map </h1>
+    <h2> Subtitle </h2>
     <div style="text-align: center;">
       Parish activities as of 
       <select id="target-day">
@@ -40,8 +35,10 @@
   <link href='https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.css' rel='stylesheet' />
   <script src="script.js"></script>
 
-  <div id='map' style='width: 500px; height: 600px;'></div>
+  <div id='map' style='width: 450px; height: 600px;'></div>
   <script>
+    
+    
     mapboxgl.accessToken = 'pk.eyJ1IjoibWdhcnZpbiIsImEiOiJjbGF3bzB4OW0waG0wM3Vtdmp5YjFlZDB5In0.HLj4SIkewklqBtSfY0Gm8w';
 //    mapboxgl.trackResize = true;
     parishActivityJson = [];
@@ -85,15 +82,6 @@
       style: 'mapbox://styles/mapbox/dark-v11', // style URL
       center: [-81.649318, 41.316308], // starting position [lng, lat]
       zoom: 8, // starting zoom
-      doubleClickZoom: true,
-      maxZoom: 11,
-      minZoom: 8,
-      minPitch: 0,
-      touchPitch: false,
-      trackResize: true,
-      boxZoom: true,
-      //setMaxBounds: [[-82.336609, 40.556167], [-81.005762, 42.070341]],
-      
     });
     map.loadImage('icons/pngs/blueMarker.png', (error, bluePin) => {
       map.addImage('mass', bluePin);
@@ -112,16 +100,6 @@
           'features': []
         }
       });
-      // map.addLayer({
-      //   'id': 'parishlights',
-      //   'type': 'symbol',
-      //   'source': 'parishes',
-      //   'layout': {
-      //     'icon-image': '{icon}',
-      //     'icon-size': 1,
-      //     'icon-allow-overlap': true
-      //   }
-      // });
       map.addLayer({
         'id': 'parishlights',
         'type': 'circle',
@@ -155,8 +133,7 @@
         const clickCoordinates = e.lngLat
         const name = e.features[0].properties.name;
         const state = e.features[0].properties.icon;
-        const namestate = "<b>" + name + "</b> <br> <center>" + state + "</center>"
-        //For the future - could easily add a div in here with a class for CSS styling of the tooltips
+        const namestate = "<b>" + name + "</b> <br> " + state
         //const info = Object.assign({}, name, state, clickCoordinates)
         //Math to showmake sure things get zoomed out? https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
         new mapboxgl.Popup()
@@ -164,12 +141,6 @@
           .setHTML(namestate)
           .addTo(map);
       });
-
-      // Adding some controls
-      map.addControl(new mapboxgl.NavigationControl());
-
-      // Adding bounds 
-      //map.setMaxBounds([[-82.336609, 40.556167], [-81.005762, 42.070341]])
       
       // Load JSON
       fetch("data/activity-data.json")
@@ -182,12 +153,10 @@
     
     document.addEventListener('DOMContentLoaded', (event) => {
       console.log('DOM fully loaded and parsed');
-      
-      now = new Date();
+      const now = new Date()
       document.getElementById('target-day').value = now.getDay()
-      document.getElementById('target-time').value = now.getHours() + ":" + now.getMinutes(
-        //Bug - minutes without a leading 0 cause issues
-      )
+      document.getElementById('target-time').value = now.getHours() + ":" + now.getMinutes()
+      
       document.getElementById('target-day').addEventListener('change', updateMap)
       document.getElementById('target-time').addEventListener('change', updateMap)
     });

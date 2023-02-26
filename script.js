@@ -26,7 +26,7 @@ function activityIsActive(activity, day, hour, minute) {
 function defaultActivity(activity) {
   //Make an activity of "doing nothing", really for grey dots
   return {
-    parish: activity.parishName,
+    parishName: activity.parishName,
     lat: activity.lat,
     lon: activity.lon,
     activityName: activity.has24HourAdoration ? "adoration" : "rocket"
