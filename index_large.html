@@ -5,16 +5,28 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>replit</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="style-large.css" rel="stylesheet" type="text/css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 
-<body>
-  <div class="mapSettings">
-    <h1> DOC Map </h1>
-    <h2> Subtitle </h2>
+<body onload="demoAlert()">
+  <script>
+    function demoAlert()  {
+      alert("This is merely a rough draft of what this map could be - Not for production!")
+    }
+  </script>
+  
+  
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.css' rel='stylesheet' />
+  <script src="script.js"></script>
+
+  <div id='map' style='width: 100%; height: 100%;'></div>
+<!--   <div class="mapSettings">
+    <h1> Diocese of Cleveland Status Board </h1>
+    <h2> A bird's eye view of what's happening throughout the diocese </h2>
     <div style="text-align: center;">
       Parish activities as of 
       <select id="target-day">
@@ -28,17 +40,8 @@
       </select>
       <input type="time" id="target-time">
     </div>
-  </div>  
-  
-  
-  <script src='https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.js'></script>
-  <link href='https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.css' rel='stylesheet' />
-  <script src="script.js"></script>
-
-  <div id='map' style='width: 450px; height: 600px;'></div>
+  </div>   -->
   <script>
-    
-    
     mapboxgl.accessToken = 'pk.eyJ1IjoibWdhcnZpbiIsImEiOiJjbGF3bzB4OW0waG0wM3Vtdmp5YjFlZDB5In0.HLj4SIkewklqBtSfY0Gm8w';
 //    mapboxgl.trackResize = true;
     parishActivityJson = [];
@@ -82,6 +85,15 @@
       style: 'mapbox://styles/mapbox/dark-v11', // style URL
       center: [-81.649318, 41.316308], // starting position [lng, lat]
       zoom: 8, // starting zoom
+      doubleClickZoom: true,
+      maxZoom: 11,
+      minZoom: 8,
+      minPitch: 0,
+      touchPitch: false,
+      trackResize: true,
+      boxZoom: true,
+      //setMaxBounds: [[-82.336609, 40.556167], [-81.005762, 42.070341]],
+      
     });
     map.loadImage('icons/pngs/blueMarker.png', (error, bluePin) => {
       map.addImage('mass', bluePin);
@@ -100,6 +112,16 @@
           'features': []
         }
       });
+      // map.addLayer({
+      //   'id': 'parishlights',
+      //   'type': 'symbol',
+      //   'source': 'parishes',
+      //   'layout': {
+      //     'icon-image': '{icon}',
+      //     'icon-size': 1,
+      //     'icon-allow-overlap': true
+      //   }
+      // });
       map.addLayer({
         'id': 'parishlights',
         'type': 'circle',
@@ -118,12 +140,24 @@
             'match',
             ['get', 'icon'],
             'mass',
-            '#fbb03b',
+            '#4DA5FC',
             'adoration',
-            '#223b53',
+            '#F4E830',
             'confession',
-            '#e55e5e',
+            '#A953DD',
             /* other */ '#ccc'
+          ],
+          // Attempting to adjust circle opacity
+          'circle-opacity': [
+            'match',
+            ['get', 'icon'],
+            'mass',
+            0.99,
+            'adoration',
+            0.99,
+            'confession',
+            0.99,
+            /* anything else? */ 0.3
           ]
         }
       });
@@ -133,7 +167,8 @@
         const clickCoordinates = e.lngLat
         const name = e.features[0].properties.name;
         const state = e.features[0].properties.icon;
-        const namestate = "<b>" + name + "</b> <br> " + state
+        const namestate = "<div class='infoText'> <b>" + name + "</b> <br> <center>" + state + "</center> </div>"
+        //For the future - could easily add a div in here with a class for CSS styling of the tooltips
         //const info = Object.assign({}, name, state, clickCoordinates)
         //Math to showmake sure things get zoomed out? https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
         new mapboxgl.Popup()
@@ -142,23 +177,48 @@
           .addTo(map);
       });
       
+      
+      //The same thing as above, but for touch events (e.g. with a smartphone) - There's probably a better way to do this rather than duplicating this
+      map.on('ontouchstart', 'parishlights', (e) => {
+        console.log("There was a tap!", e)
+        const tapCoordinates = e.lngLat
+        const name = e.features[0].properties.name;
+        const state = e.features[0].properties.icon;
+        const namestate = "<b>" + name + "</b> <br> <center>" + state + "</center>"
+        //For the future - could easily add a div in here with a class for CSS styling of the tooltips
+        //const info = Object.assign({}, name, state, clickCoordinates)
+        //Math to showmake sure things get zoomed out? https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
+        new mapboxgl.Popup()
+          .setLngLat(tapCoordinates)
+          .setHTML(namestate)
+          .addTo(map);
+      });
+
+      // Adding some controls
+      map.addControl(new MapControl(), 'top-left');
+      map.addControl(new mapboxgl.NavigationControl());
+      
+      const now = new Date();
+      document.getElementById('target-day').value = now.getDay()
+      document.getElementById('target-time').value = now.getHours() + ":" + ("00" + now.getMinutes()).slice(-2)
+      document.getElementById('target-day').addEventListener('change', updateMap)
+      document.getElementById('target-time').addEventListener('change', updateMap)
+
+      // Adding bounds 
+      //map.setMaxBounds([[-82.336609, 40.556167], [-81.005762, 42.070341]])
+      
       // Load JSON
       fetch("data/activity-data.json")
         .then(result => result.json())
         .then(result => {
           parishActivityJson = result;
-          updateMap();
+          updateMap(); 
         });
     });
     
     document.addEventListener('DOMContentLoaded', (event) => {
       console.log('DOM fully loaded and parsed');
-      const now = new Date()
-      document.getElementById('target-day').value = now.getDay()
-      document.getElementById('target-time').value = now.getHours() + ":" + now.getMinutes()
       
-      document.getElementById('target-day').addEventListener('change', updateMap)
-      document.getElementById('target-time').addEventListener('change', updateMap)
     });
 
   </script>

@@ -140,12 +140,24 @@
             'match',
             ['get', 'icon'],
             'mass',
-            '#fbb03b',
+            '#4DA5FC',
             'adoration',
-            '#223b53',
+            '#F4E830',
             'confession',
-            '#e55e5e',
+            '#A953DD',
             /* other */ '#ccc'
+          ],
+          // Attempting to adjust circle opacity
+          'circle-opacity': [
+            'match',
+            ['get', 'icon'],
+            'mass',
+            0.99,
+            'adoration',
+            0.99,
+            'confession',
+            0.99,
+            /* anything else? */ 0.3
           ]
         }
       });
@@ -155,12 +167,27 @@
         const clickCoordinates = e.lngLat
         const name = e.features[0].properties.name;
         const state = e.features[0].properties.icon;
-        const namestate = "<b>" + name + "</b> <br> <center>" + state + "</center>"
+        const namestate = "<div class='infoText'> <b>" + name + "</b> <br> <center>" + state + "</center> </div>"
         //For the future - could easily add a div in here with a class for CSS styling of the tooltips
         //const info = Object.assign({}, name, state, clickCoordinates)
         //Math to showmake sure things get zoomed out? https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
         new mapboxgl.Popup()
           .setLngLat(clickCoordinates)
+          .setHTML(namestate)
+          .addTo(map);
+      });
+      //The same thing as above, but for touch events (e.g. with a smartphone) - There's probably a better way to do this rather than duplicating this
+      map.on('ontouchstart', 'parishlights', (e) => {
+        console.log("There was a tap!", e)
+        const tapCoordinates = e.lngLat
+        const name = e.features[0].properties.name;
+        const state = e.features[0].properties.icon;
+        const namestate = "<b>" + name + "</b> <br> <center>" + state + "</center>"
+        //For the future - could easily add a div in here with a class for CSS styling of the tooltips
+        //const info = Object.assign({}, name, state, clickCoordinates)
+        //Math to showmake sure things get zoomed out? https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
+        new mapboxgl.Popup()
+          .setLngLat(tapCoordinates)
           .setHTML(namestate)
           .addTo(map);
       });

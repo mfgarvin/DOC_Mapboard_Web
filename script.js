@@ -61,3 +61,38 @@ function getParishActivitiesAtTime(activityData, day, hour, minute) {
   
   return [...results.values()]
 }
+
+// Experiment for larger map version
+class MapControl {
+  onAdd(map) {
+    this._map = map;
+    this._container = document.createElement('div');
+    this._container.id = "mapSettings";
+    this._container.className = 'mapboxgl-ctrl';
+    this._container.innerHTML = `
+    
+    <h1> Diocese of Cleveland Status Board </h1>
+    <h2> A bird's eye view of what's happening throughout the diocese </h2>
+    <div>
+      Parish activities as of 
+      <select id="target-day">
+        <option value="0">Sunday</option>
+        <option value="1">Monday</option>
+        <option value="2">Tuesday</option>
+        <option value="3">Wednesday</option>
+        <option value="4">Thursday</option>
+        <option value="5">Friday</option>
+        <option value="6">Saturday</option>
+      </select>
+      <input type="time" id="target-time">
+    </div>
+  
+    `
+    return this._container;
+  }
+   
+  onRemove() {
+    this._container.parentNode.removeChild(this._container);
+    this._map = undefined;
+  }
+}

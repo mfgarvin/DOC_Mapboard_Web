@@ -10,17 +10,14 @@ html, body {
 h1, h2 {
   color: FloralWhite;
   font-family: 'Dosis', sans-serif;
-  text-align: center;
 }
 
-#map, .mapSettings{
-  position: relative;
-  overflow: hidden;
-  width: 50%;
-  margin: auto;
+#mapSettings  {
+  padding:3em;
+  background-color: #000A;
 }
 
-#actualMap  {
+#map  {
   position: absolute;
   top: 0;
   left: 0;
